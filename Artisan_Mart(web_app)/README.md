@@ -186,6 +186,13 @@ Contributions are what make the open-source community such an amazing place to l
 </div>
 
 ---
+## 📫 Connect with the Architect
+
+* **Portfolio**: [asad-portfolio-pi.vercel.app](https://asad-portfolio-pi.vercel.app/)
+* **Contact**: [asadullah.devop@gmail.com](mailto:asadullah.devop@gmail.com)
+* **Status**: `SYSTEMS_OPERATIONAL` 🟢
+
+---
 
 <div align="center">
   **Built with ❤️ for artisans and crafters worldwide**
