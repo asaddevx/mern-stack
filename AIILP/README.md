@@ -129,6 +129,7 @@ src/
 ## 📫 Connect with the Architect
 
 * **Portfolio**: [asad-portfolio-pi.vercel.app](https://asad-portfolio-pi.vercel.app/)
+* **Contact**: [asadullah.devop@gmail.com](mailto:asadullah.devop@gmail.com)
 * **Status**: `SYSTEMS_OPERATIONAL` 🟢
 
 ---
