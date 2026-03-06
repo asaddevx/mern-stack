@@ -392,6 +392,13 @@ If you encounter any issues or have questions:
 </div>
 
 ---
+## 📫 Connect with the Architect
+
+* **Portfolio**: [asad-portfolio-pi.vercel.app](https://asad-portfolio-pi.vercel.app/)
+* **Contact**: [asadullah.devop@gmail.com](mailto:asadullah.devop@gmail.com)
+* **Status**: `SYSTEMS_OPERATIONAL` 🟢
+
+---
 
 <div align="center">
   Made with ❤️ for better financial management
