@@ -131,6 +131,12 @@ My focus is on **System Architecture & Data Integrity**. I specialize in buildin
 * **Solution**: A planning engine with a **Hybrid Budget Calculator** and an AI "Buddy Bot" for logistics guidance.
 * **Key Tech**: React, Google Maps API, Gemini API.
 
+### 💰 [Finance Tracker](https://www.google.com/search?q=./Finance_Tracker(web_app)) | Fintech
+
+* **Problem**: "Spending Leaks" caused by unorganized raw financial data.
+* **Solution**: A smart budget analyzer turning raw transactions into **Actionable Categories & Insights**.
+* **Key Tech**: React Native, Node.js, Recharts.
+
 ---
 
 ## 🛠️ Global Technical Standards
@@ -151,10 +157,4 @@ Every project in this repository adheres to these core engineering principles:
 
 ---
 
-### Why this update works:
 
-1. **BestPriceKSA Placement**: Placing it at the top signals it as a high-value, live-production project.
-2. **Problem/Solution Focus**: It reinforces your niche as a problem-solver who builds "Command Centers" for fragmented industries.
-3. **Internal Links**: I’ve updated the paths to point to your actual GitHub folders for better navigation.
-
-Would you like me to write a specialized **"Technical Case Study"** for BestPriceKSA to include in your portfolio's detail page?
