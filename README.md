@@ -39,7 +39,7 @@ My focus is on **System Architecture & Data Integrity**. I specialize in buildin
 * **Solution**: An AI-powered wellness journal using **Gemini AI for Sentiment Analysis** and cross-platform synchronization.
 * **Key Tech**: React, Node.js, Gemini API.
 
-### 🛍️ [Artisan Mart](https://www.google.com/search?q=https://github.com/ATdeveloper911/mern-stack/tree/main/Artisan_Mart(web_app)) | AI-Marketplace
+### 🛍️ [Artisan Mart](https://github.com/ATdeveloper911/mern-stack/tree/main/Artisan_Mart(web_app)) | AI-Marketplace
 
 * **Problem**: High friction in product discovery for niche, non-standardized artisan markets.
 * **Solution**: A multi-vendor marketplace featuring **AI-Powered Image Search** via Gemini Vision API.
