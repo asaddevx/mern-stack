@@ -51,7 +51,7 @@ My focus is on **System Architecture & Data Integrity**. I specialize in buildin
 * **Solution**: A planning engine with a **Hybrid Budget Calculator** and an AI "Buddy Bot" for logistics guidance.
 * **Key Tech**: React, Google Maps API, Gemini API.
 
-### 💰 [Finance Tracker](https://www.google.com/search?q=./Finance_Tracker(web_app)) | Fintech
+### 💰 [Finance Tracker](https://github.com/ATdeveloper911/mern-stack/tree/main/Finance_Tracker(web_app)/) | Fintech
 
 * **Problem**: "Spending Leaks" caused by unorganized raw financial data.
 * **Solution**: A smart budget analyzer turning raw transactions into **Actionable Categories & Insights**.
