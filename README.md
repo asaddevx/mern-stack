@@ -33,7 +33,7 @@ My focus is on **System Architecture & Data Integrity**. I specialize in buildin
 * **Solution**: A real-time management system featuring **Socket.IO donor-matching** and 7-year audit trail retention.
 * **Key Tech**: Node.js, Express, Socket.IO, MongoDB.
 
-### 🧘 [MindSpace](https://www.google.com/search?q=https://github.com/ATdeveloper911/mern-stack/tree/main/Mind_Space(web_app)) | Wellness SaaS
+### 🧘 [MindSpace](https://github.com/ATdeveloper911/mern-stack/tree/main/Mind_Space(web_app)) | Wellness SaaS
 
 * **Problem**: Unstructured mental health tracking that lacks actionable data or sentiment insight.
 * **Solution**: An AI-powered wellness journal using **Gemini AI for Sentiment Analysis** and cross-platform synchronization.
