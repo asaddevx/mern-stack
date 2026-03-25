@@ -27,7 +27,7 @@ My focus is on **System Architecture & Data Integrity**. I specialize in buildin
 * **Solution**: A unified ecosystem featuring **Bulk Student Onboarding (< 60s)** and real-time status tracking via Supabase.
 * **Key Tech**: React, Supabase Realtime, PostgreSQL.
 
-### 🩸 [BloodLink](https://www.google.com/search?q=https://github.com/ATdeveloper911/mern-stack/tree/main/blood_donations_system) | Medical Logistics
+### 🩸 [BloodLink](https://github.com/ATdeveloper911/mern-stack/tree/main/blood_donations_system/) | Medical Logistics
 
 * **Problem**: Delayed response times in life-critical medical emergencies due to fragmented donor data.
 * **Solution**: A real-time management system featuring **Socket.IO donor-matching** and 7-year audit trail retention.
