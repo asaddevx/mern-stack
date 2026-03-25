@@ -71,13 +71,6 @@ Every project in this repository adheres to these core engineering principles:
 
 ## 📫 Connect with the Architect
 
-* **Portfolio**: [asad-lime-six.vercel.app](https://asad-lime-six.vercel.app/)
-* **Contact**: [asadullah.devop@gmail.com](mailto:asadullah.devop@gmail.com)
-* **Status**: `SYSTEMS_OPERATIONAL` 🟢
-
----
----
-
 <div align="center">
   <p><strong>SYSTEMS_STATUS:MERN_SYSTEM_OPERATIONAL 🟢</strong></p>
   <p>Let's build something disruptive. 🚀</p>
