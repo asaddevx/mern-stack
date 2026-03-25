@@ -21,7 +21,7 @@ My focus is on **System Architecture & Data Integrity**. I specialize in buildin
 * **Solution**: A high-performance command center featuring a **"Store Command Strip"** for real-time horizontal stock visibility and a **Zero-Double-Counting** finance engine.
 * **Key Tech**: React, Node.js, Express, MySQL/MongoDB.
 
-### 🎓 [AIILP](https://www.google.com/search?q=https://github.com/ATdeveloper911/mern-stack/tree/main/AIILP) | Institutional Linkage
+### 🎓 [AIILP](https://github.com/ATdeveloper911/mern-stack/tree/main/AIILP/) | Institutional Linkage
 
 * **Problem**: The gap between academia and industry-vetted internships for both students and guest applicants.
 * **Solution**: A unified ecosystem featuring **Bulk Student Onboarding (< 60s)** and real-time status tracking via Supabase.
