@@ -95,3 +95,6 @@ Every project in this repository adheres to these core engineering principles:
   </a>
 </div>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=23272e&height=30&section=footer" />
+</p>
