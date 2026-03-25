@@ -45,7 +45,7 @@ My focus is on **System Architecture & Data Integrity**. I specialize in buildin
 * **Solution**: A multi-vendor marketplace featuring **AI-Powered Image Search** via Gemini Vision API.
 * **Key Tech**: MERN Stack, Gemini Vision, Stripe Connect.
 
-### ✈️ [Smart Travel Planner](https://www.google.com/search?q=https://github.com/ATdeveloper911/mern-stack/tree/main/smart-travel-planner) | AI Logistics
+### ✈️ [Smart Travel Planner](https://github.com/ATdeveloper911/mern-stack/tree/main/smart-travel-planner/) | AI Logistics
 
 * **Problem**: High-friction itinerary planning and inaccurate manual budget forecasting for group travel.
 * **Solution**: A planning engine with a **Hybrid Budget Calculator** and an AI "Buddy Bot" for logistics guidance.
