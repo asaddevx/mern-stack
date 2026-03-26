@@ -21,37 +21,37 @@ My focus is on **System Architecture & Data Integrity**. I specialize in buildin
 * **Solution**: A high-performance command center featuring a **"Store Command Strip"** for real-time horizontal stock visibility and a **Zero-Double-Counting** finance engine.
 * **Key Tech**: React, Node.js, Express, MySQL/MongoDB.
 
-### 🎓 [AIILP](https://github.com/ATdeveloper911/mern-stack/tree/main/AIILP/) | Institutional Linkage
+### 🎓 [AIILP](https://github.com/asaddevx/mern-stack/tree/main/AIILP/) | Institutional Linkage
 
 * **Problem**: The gap between academia and industry-vetted internships for both students and guest applicants.
 * **Solution**: A unified ecosystem featuring **Bulk Student Onboarding (< 60s)** and real-time status tracking via Supabase.
 * **Key Tech**: React, Supabase Realtime, PostgreSQL.
 
-### 🩸 [BloodLink](https://github.com/ATdeveloper911/mern-stack/tree/main/blood_donations_system/) | Medical Logistics
+### 🩸 [BloodLink](https://github.com/asaddevx/mern-stack/tree/main/blood_donations_system/) | Medical Logistics
 
 * **Problem**: Delayed response times in life-critical medical emergencies due to fragmented donor data.
 * **Solution**: A real-time management system featuring **Socket.IO donor-matching** and 7-year audit trail retention.
 * **Key Tech**: Node.js, Express, Socket.IO, MongoDB.
 
-### 🧘 [MindSpace](https://github.com/ATdeveloper911/mern-stack/tree/main/Mind_Space(web_app)) | Wellness SaaS
+### 🧘 [MindSpace](https://github.com/asaddevx/mern-stack/tree/main/Mind_Space(web_app)) | Wellness SaaS
 
 * **Problem**: Unstructured mental health tracking that lacks actionable data or sentiment insight.
 * **Solution**: An AI-powered wellness journal using **Gemini AI for Sentiment Analysis** and cross-platform synchronization.
 * **Key Tech**: React, Node.js, Gemini API.
 
-### 🛍️ [Artisan Mart](https://github.com/ATdeveloper911/mern-stack/tree/main/Artisan_Mart(web_app)/) | AI-Marketplace
+### 🛍️ [Artisan Mart](https://github.com/asaddevx/mern-stack/tree/main/Artisan_Mart(web_app)/) | AI-Marketplace
 
 * **Problem**: High friction in product discovery for niche, non-standardized artisan markets.
 * **Solution**: A multi-vendor marketplace featuring **AI-Powered Image Search** via Gemini Vision API.
 * **Key Tech**: MERN Stack, Gemini Vision, Stripe Connect.
 
-### ✈️ [Smart Travel Planner](https://github.com/ATdeveloper911/mern-stack/tree/main/smart-travel-planner/) | AI Logistics
+### ✈️ [Smart Travel Planner](https://github.com/asaddevx/mern-stack/tree/main/smart-travel-planner/) | AI Logistics
 
 * **Problem**: High-friction itinerary planning and inaccurate manual budget forecasting for group travel.
 * **Solution**: A planning engine with a **Hybrid Budget Calculator** and an AI "Buddy Bot" for logistics guidance.
 * **Key Tech**: React, Google Maps API, Gemini API.
 
-### 💰 [Finance Tracker](https://github.com/ATdeveloper911/mern-stack/tree/main/Finance_Tracker(web-app)/) | Fintech
+### 💰 [Finance Tracker](https://github.com/asaddevx/mern-stack/tree/main/Finance_Tracker(web-app)/) | Fintech
 
 * **Problem**: "Spending Leaks" caused by unorganized raw financial data.
 * **Solution**: A smart budget analyzer turning raw transactions into **Actionable Categories & Insights**.
