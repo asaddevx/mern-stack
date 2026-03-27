@@ -185,12 +185,6 @@ Contributions are what make the open-source community such an amazing place to l
 
 </div>
 
----
-## 📫 Connect with the Architect
-
-* **Portfolio**: [asad-lime-six.vercel.app](https://asad-lime-six.vercel.app/)
-* **Contact**: [asadullah.devop@gmail.com](mailto:asadullah.devop@gmail.com)
-* **Status**: `SYSTEMS_OPERATIONAL` 🟢
 
 ---
 ## 📫 Connect with the Architect
