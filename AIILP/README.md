@@ -128,13 +128,6 @@ src/
 
 ## 📫 Connect with the Architect
 
-* **Portfolio**: [asad-lime-six.vercel.app](https://asad-lime-six.vercel.app/)
-* **Contact**: [asadullah.devop@gmail.com](mailto:asadullah.devop@gmail.com)
-* **Status**: `SYSTEMS_OPERATIONAL` 🟢
-
----
-## 📫 Connect with the Architect
-
 <div align="center">
   <p><strong>SYSTEMS_STATUS:MERN_SYSTEM_OPERATIONAL 🟢</strong></p>
   <p>Let's build something disruptive. 🚀</p>
