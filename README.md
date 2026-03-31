@@ -55,7 +55,7 @@ My focus is on **System Architecture & Data Integrity**. I specialize in buildin
 
 * **Problem**: "Spending Leaks" caused by unorganized raw financial data.
 * **Solution**: A smart budget analyzer turning raw transactions into **Actionable Categories & Insights**.
-* **Key Tech**: React Native, Node.js, Recharts.
+* **Key Tech**: React Native, Node.js, Recharts, Express, Socket.IO, MongoDB.
 
 ---
 
