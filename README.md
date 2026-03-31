@@ -37,7 +37,7 @@ My focus is on **System Architecture & Data Integrity**. I specialize in buildin
 
 * **Problem**: Unstructured mental health tracking that lacks actionable data or sentiment insight.
 * **Solution**: An AI-powered wellness journal using **Gemini AI for Sentiment Analysis** and cross-platform synchronization.
-* **Key Tech**: React, Node.js, Gemini API.
+* **Key Tech**: React, Node.js, Gemini API, Express, Socket.IO, MongoDB.
 
 ### 🛍️ [Artisan Mart](https://github.com/asaddevx/mern-stack/tree/main/Artisan_Mart(web_app)/) | AI-Marketplace
 
