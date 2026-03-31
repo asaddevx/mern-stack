@@ -49,13 +49,13 @@ My focus is on **System Architecture & Data Integrity**. I specialize in buildin
 
 * **Problem**: High-friction itinerary planning and inaccurate manual budget forecasting for group travel.
 * **Solution**: A planning engine with a **Hybrid Budget Calculator** and an AI "Buddy Bot" for logistics guidance.
-* **Key Tech**: React, Google Maps API, Gemini API.
+* **Key Tech**: React, Google Maps API, Gemini API, Express, Socket.IO, MongoDB.
 
 ### 💰 [Finance Tracker](https://github.com/asaddevx/mern-stack/tree/main/Finance_Tracker(web-app)/) | Fintech
 
 * **Problem**: "Spending Leaks" caused by unorganized raw financial data.
 * **Solution**: A smart budget analyzer turning raw transactions into **Actionable Categories & Insights**.
-* **Key Tech**: React Native, Node.js, Recharts, Express, Socket.IO, MongoDB.
+* **Key Tech**: Node.js, Recharts, Express, Socket.IO, MongoDB.
 
 ---
 
