@@ -69,6 +69,14 @@ Every project in this repository adheres to these core engineering principles:
 ---
 
 ## ✨ Key Highlights
+- **Production-Grade MERN Architecture** — Feature-based structure with clean separation of concerns
+- **Secure Authentication System** — JWT + Refresh Tokens, httpOnly cookies, and rate limiting
+- **Real-time Features** — Socket.IO integration for live updates and notifications
+- **Scalable & Maintainable Codebase** — Clean Architecture + TypeScript for long-term growth
+- **Modern Frontend** — React + Tailwind CSS with excellent UI/UX
+- **Robust Backend** — Node.js + Express with proper error handling and logging
+- **Database Optimization** — MongoDB with proper indexing and schema design
+- **DevOps Ready** — Docker support for easy deployment and consistent environments
 ---
 ## 📊 Repository Analytics
 <p align="center">
