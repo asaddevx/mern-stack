@@ -71,8 +71,7 @@ Every project in this repository adheres to these core engineering principles:
 <p align="center">
   <!-- Repository Stats Card -->
   <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=asaddevx&repo=mern-stack&theme=tokyonight&hide_border=true&bg_color=0a192f&border_radius=20" alt="mern-stack Repo Stats" />
-</p>
-<p align="center">
+
   <!-- Top Languages in this Repository -->
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=asaddevx&repo=mern-stack&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a192f&border_radius=20&langs_count=8" alt="Top Languages in mern-stack" />
 </p>
