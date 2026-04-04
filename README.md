@@ -68,6 +68,10 @@ Every project in this repository adheres to these core engineering principles:
 * **Real-time Performance**: Event-driven architectures using **WebSockets** and **Realtime Channels**.
 ---
 ## 📊 Repository Analytics
+<p align="center">
+  <!-- Repository Stats Card -->
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=asaddevx&repo=mern-stack&theme=tokyonight&hide_border=true&bg_color=0a192f&border_radius=20" alt="mern-stack Repo Stats" />
+</p>
 ---
 
 ## 📫 Connect with the Architect
