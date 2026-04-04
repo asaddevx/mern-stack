@@ -67,6 +67,9 @@ Every project in this repository adheres to these core engineering principles:
 * **Data Integrity**: **Audit-proof ledgers** and activity logs for 100% accountability.
 * **Real-time Performance**: Event-driven architectures using **WebSockets** and **Realtime Channels**.
 ---
+
+## ✨ Key Highlights
+---
 ## 📊 Repository Analytics
 <p align="center">
   <!-- Repository Stats Card -->
