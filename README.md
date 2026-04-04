@@ -75,6 +75,12 @@ Every project in this repository adheres to these core engineering principles:
   <!-- Top Languages in this Repository -->
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=asaddevx&repo=mern-stack&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a192f&border_radius=20&langs_count=8" alt="Top Languages in mern-stack" />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  
 ---
 
 ## 📫 Connect with the Architect
