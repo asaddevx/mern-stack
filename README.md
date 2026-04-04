@@ -77,6 +77,7 @@ Every project in this repository adheres to these core engineering principles:
 - **Robust Backend** — Node.js + Express with proper error handling and logging
 - **Database Optimization** — MongoDB with proper indexing and schema design
 - **DevOps Ready** — Docker support for easy deployment and consistent environments
+Built with strong emphasis on **security, scalability, performance, and developer experience**.
 ---
 ## 📊 Repository Analytics
 <p align="center">
