@@ -66,7 +66,8 @@ Every project in this repository adheres to these core engineering principles:
 * **Security First**: Implementation of **Row Level Security (RLS)** and **JWT-based RBAC**.
 * **Data Integrity**: **Audit-proof ledgers** and activity logs for 100% accountability.
 * **Real-time Performance**: Event-driven architectures using **WebSockets** and **Realtime Channels**.
-
+---
+## 📊 Repository Analytics
 ---
 
 ## 📫 Connect with the Architect
