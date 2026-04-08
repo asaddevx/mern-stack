@@ -124,6 +124,10 @@ src/
 
 ```
 ## 📊 Project Analytics
+<p align="center">
+  <!-- AIILP Project Stats -->
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=asaddevx&repo=mern-stack&theme=tokyonight&hide_border=true&bg_color=0a192f&border_radius=20" alt="AIILP Project Stats" />
+</p>
 
 ---
 
