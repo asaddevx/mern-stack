@@ -142,6 +142,8 @@ Before BloodLink, blood donation was hindered by manual record-keeping and slow 
 - **Live Donor-Patient Matching** — Smart algorithm that significantly reduces matching time in life-saving situations
 - **Socket.IO Powered Real-Time Updates** — Instant notifications for donors, patients, and hospitals
 - **Production-Grade MERN Architecture** — Scalable, secure, and maintainable full-stack solution
+- **Emergency-Focused Design** — Built specifically for high-pressure medical scenarios with reliability at its core
+- **Modern & Responsive UI** — Clean, intuitive interface for both donors and medical staff
 
 ---
 ## 📊 Project Analytics
