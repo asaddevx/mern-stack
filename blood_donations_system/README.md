@@ -144,6 +144,8 @@ Before BloodLink, blood donation was hindered by manual record-keeping and slow 
 - **Production-Grade MERN Architecture** — Scalable, secure, and maintainable full-stack solution
 - **Emergency-Focused Design** — Built specifically for high-pressure medical scenarios with reliability at its core
 - **Modern & Responsive UI** — Clean, intuitive interface for both donors and medical staff
+- **Secure Data Handling** — Proper authentication, authorization, and sensitive medical data protection
+- **High-Impact Social Good Project** — Aimed at saving lives through faster blood donation coordination
 
 ---
 ## 📊 Project Analytics
