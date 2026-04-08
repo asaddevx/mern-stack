@@ -128,6 +128,9 @@ src/
 - **Academic-Industry Linkage Platform** — A complete ecosystem connecting universities, students, and software houses for seamless internship management
 - **Ultra-Fast Bulk Student Onboarding** — Register thousands of students via CSV with auto-generated credentials in under **60 seconds**
 - **Real-Time Application Tracking** — Live status updates (Pending → Reviewing → Accepted → Rejected) with Supabase Realtime
+- **Dynamic CV Builder** — Professional multi-section CV creation and management tool
+- **Advanced Admin & Vetting Dashboard** — Role-based dashboards for universities and software houses with applicant review tools
+- **Immutable Audit Logs & Analytics** — Full traceability and executive dashboards with Recharts visualizations
 
 
 ---
