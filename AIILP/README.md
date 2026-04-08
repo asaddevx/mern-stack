@@ -131,6 +131,8 @@ src/
 - **Dynamic CV Builder** — Professional multi-section CV creation and management tool
 - **Advanced Admin & Vetting Dashboard** — Role-based dashboards for universities and software houses with applicant review tools
 - **Immutable Audit Logs & Analytics** — Full traceability and executive dashboards with Recharts visualizations
+- **Enterprise-Grade Security** — Row Level Security (RLS) + Supabase Auth for complete data protection
+- **High-Performance Full-Stack Architecture** — Built with React, TypeScript, Tailwind, and Supabase for scalability and real-time experience
 
 
 ---
