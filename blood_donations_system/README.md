@@ -141,7 +141,10 @@ Before BloodLink, blood donation was hindered by manual record-keeping and slow 
   <!-- BloodLink Project Stats -->
   <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=asaddevx&repo=mern-stack&theme=tokyonight&hide_border=true&bg_color=0a192f&border_radius=20" alt="BloodLink Project Stats" />
 </p>
-
+<p align="center">
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=asaddevx&repo=mern-stack&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a192f&border_radius=20&langs_count=8" alt="Top Languages" />
+</p>
 ---
 ## 📫 Connect with the Architect
 
