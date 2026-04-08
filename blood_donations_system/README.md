@@ -145,6 +145,10 @@ Before BloodLink, blood donation was hindered by manual record-keeping and slow 
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=asaddevx&repo=mern-stack&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a192f&border_radius=20&langs_count=8" alt="Top Languages" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  
 ---
 ## 📫 Connect with the Architect
 
