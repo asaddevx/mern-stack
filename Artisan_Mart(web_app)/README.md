@@ -111,68 +111,6 @@ ArtisanMart is a comprehensive multi-vendor marketplace designed specifically fo
 - MongoDB Atlas account or local MongoDB
 - Stripe account for payment processing
 
-### Installation
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/artisan-mart.git
-   cd artisan-mart
-   ```
-
-2. **Install dependencies**
-   ```bash
-   # Install server dependencies
-   cd backend
-   npm install
-   
-   # Install client dependencies
-   cd ../frontend
-   npm install
-   ```
-
-3. **Set up environment variables**
-   Create a `.env` file in the backend directory with:
-   ```
-   MONGODB_URI=your_mongodb_connection_string
-   JWT_SECRET=your_jwt_secret
-   STRIPE_SECRET_KEY=your_stripe_secret_key
-   CLIENT_URL=http://localhost:3000
-   ```
-
-4. **Run the application**
-   ```bash
-   # Start backend server
-   cd backend
-   npm run dev
-   
-   # In a new terminal, start frontend
-   cd frontend
-   npm start
-   ```
-
-   The application will be available at `http://localhost:3000`
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🤝 Contributing
-
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 🙏 Acknowledgments
-
-- [Font Awesome](https://fontawesome.com/)
-- [React Icons](https://react-icons.github.io/react-icons/)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [Stripe](https://stripe.com/)
-
 ---
 
 <div align="center">
@@ -190,8 +128,7 @@ Contributions are what make the open-source community such an amazing place to l
 <p align="center">
   <!-- Artisan Mart Project Stats -->
   <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=asaddevx&repo=mern-stack&theme=tokyonight&hide_border=true&bg_color=0a192f&border_radius=20" alt="Artisan Mart Project Stats" />
-</p>
-<p align="center">
+
   <!-- Top Languages -->
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=asaddevx&repo=mern-stack&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a192f&border_radius=20&langs_count=8" alt="Top Languages" />
 </p>
