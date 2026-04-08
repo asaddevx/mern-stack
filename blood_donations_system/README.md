@@ -140,6 +140,8 @@ Before BloodLink, blood donation was hindered by manual record-keeping and slow 
 ## ✨ BloodLink Key Highlights
 - **Real-Time Medical Logistics System** — Connects blood donors with patients in critical emergencies with minimal latency
 - **Live Donor-Patient Matching** — Smart algorithm that significantly reduces matching time in life-saving situations
+- **Socket.IO Powered Real-Time Updates** — Instant notifications for donors, patients, and hospitals
+- **Production-Grade MERN Architecture** — Scalable, secure, and maintainable full-stack solution
 
 ---
 ## 📊 Project Analytics
