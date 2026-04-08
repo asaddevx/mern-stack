@@ -147,6 +147,7 @@ Before BloodLink, blood donation was hindered by manual record-keeping and slow 
 - **Secure Data Handling** — Proper authentication, authorization, and sensitive medical data protection
 - **High-Impact Social Good Project** — Aimed at saving lives through faster blood donation coordination
 
+A powerful real-time full-stack application that demonstrates the practical use of MERN Stack in solving critical healthcare challenges.
 ---
 ## 📊 Project Analytics
 <p align="center">
