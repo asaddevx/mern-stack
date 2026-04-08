@@ -125,6 +125,10 @@ ArtisanMart is a comprehensive multi-vendor marketplace designed specifically fo
 
 
 ## ✨ Artisan_Mart Key Highlights
+- **Handicraft E-Commerce Marketplace** — A dedicated platform connecting local artisans with customers for authentic handmade products
+- **Seller-Centric Dashboard** — Artisans can easily manage products, inventory, orders, and earnings
+- **Modern Customer Experience** — Clean product browsing, cart, wishlist, and secure checkout flow
+- **Full-Stack MERN Implementation** — Robust backend with MongoDB and scalable frontend using React + Tailwind CSS
 
 ---
 ## 📊 Project Analytics
