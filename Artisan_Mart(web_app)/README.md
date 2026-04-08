@@ -134,6 +134,7 @@ ArtisanMart is a comprehensive multi-vendor marketplace designed specifically fo
 - **Real-World Business Logic** — Order management, product categorization, and basic payment flow implementation
 - **Early Production-Grade Project** — Demonstrates clean architecture and full-stack development skills
 
+A practical and impactful MERN Stack web application focused on empowering local artisans through digital commerce.
 ---
 ## 📊 Project Analytics
 
