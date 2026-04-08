@@ -136,6 +136,9 @@ Before BloodLink, blood donation was hindered by manual record-keeping and slow 
 | **Services** | Cloudinary (Files) & Nodemailer (SMTP)  |
 
 ---
+## 📊 Project Analytics
+
+---
 ## 📫 Connect with the Architect
 
 <div align="center">
