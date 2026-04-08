@@ -123,6 +123,11 @@ src/
 └── utils/        # CSV Parsers, Notification Triggers, & Audit Logging
 
 ```
+
+## ✨ AIILP Key Highlights
+
+
+---
 ## 📊 Project Analytics
 <p align="center">
   <!-- AIILP Project Stats -->
