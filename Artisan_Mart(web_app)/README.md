@@ -123,6 +123,10 @@ ArtisanMart is a comprehensive multi-vendor marketplace designed specifically fo
 
 </div>
 
+
+## ✨ Artisan_Mart Key Highlights
+
+---
 ## 📊 Project Analytics
 
 <p align="center">
