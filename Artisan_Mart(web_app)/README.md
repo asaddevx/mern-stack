@@ -129,6 +129,10 @@ ArtisanMart is a comprehensive multi-vendor marketplace designed specifically fo
 - **Seller-Centric Dashboard** — Artisans can easily manage products, inventory, orders, and earnings
 - **Modern Customer Experience** — Clean product browsing, cart, wishlist, and secure checkout flow
 - **Full-Stack MERN Implementation** — Robust backend with MongoDB and scalable frontend using React + Tailwind CSS
+- **Secure Authentication** — JWT-based login system with protected routes for buyers and sellers
+- **Responsive & User-Friendly Design** — Beautiful, mobile-first interface optimized for both artisans and buyers
+- **Real-World Business Logic** — Order management, product categorization, and basic payment flow implementation
+- **Early Production-Grade Project** — Demonstrates clean architecture and full-stack development skills
 
 ---
 ## 📊 Project Analytics
