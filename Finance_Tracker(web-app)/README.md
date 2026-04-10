@@ -402,6 +402,7 @@ If you encounter any issues or have questions:
 - **Responsive Design** — Excellent user experience on both desktop and mobile devices
 - **Production-Ready Patterns** — Proper state management, error handling, and performance optimization
 
+A practical and visually rich full-stack finance application that demonstrates real-world MERN Stack skills with focus on usability and data insights.
 ---
 
 ## 📊 Project Analytics
