@@ -359,25 +359,7 @@ npm start           # Start production server
 4. Test thoroughly
 5. Submit a pull request
 
-## 📄 License
 
-This project is licensed under the MIT License.
-
-## 🆘 Support
-
-If you encounter any issues or have questions:
-
-1. Check the documentation
-2. Search existing issues
-3. Create a new issue with detailed information
-
-## 🎉 Acknowledgments
-
-- **Icons**: Lucide React
-- **Charts**: Chart.js
-- **Animations**: Framer Motion
-- **Styling**: Tailwind CSS
-- **Database**: MongoDB Atlas
 
 ---
 
