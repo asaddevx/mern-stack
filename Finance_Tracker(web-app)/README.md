@@ -390,6 +390,8 @@ If you encounter any issues or have questions:
 *See the application in action with our comprehensive demo video*
 
 </div>
+---
+## 📊 Project Analytics
 
 ---
 ## 📫 Connect with the Architect
