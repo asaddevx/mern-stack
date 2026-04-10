@@ -393,6 +393,11 @@ If you encounter any issues or have questions:
 
 ## ✨ Finance Tracker Key Highlights
 
+- **Personal Finance Management Dashboard** — Complete web application for tracking income, expenses, and savings
+- **Interactive Data Visualization** — Beautiful charts and graphs (Recharts) for monthly/weekly spending insights
+- **Budget Planning & Alerts** — Smart budget categories with real-time overspending notifications
+- **Transaction Management** — Add, edit, categorize, and search financial transactions with full CRUD operations
+
 ---
 
 ## 📊 Project Analytics
