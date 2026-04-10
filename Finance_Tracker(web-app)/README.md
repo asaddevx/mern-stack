@@ -391,6 +391,10 @@ If you encounter any issues or have questions:
 
 </div>
 
+## ✨ Finance Tracker Key Highlights
+
+---
+
 ## 📊 Project Analytics
 
 <p align="center">
