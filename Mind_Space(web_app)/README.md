@@ -406,6 +406,7 @@ For support and questions:
 *See the application in action with our comprehensive demo video*
 
 </div>
+
 ## ✨ MindSpace Key Highlights
 
 - **AI-Powered Mental Wellness Platform** — A modern SaaS application focused on mental health tracking and emotional well-being
