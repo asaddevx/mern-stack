@@ -417,6 +417,7 @@ For support and questions:
 - **Secure & Private** — User data protection with JWT authentication and privacy-first design
 - **Production-Ready Wellness Solution** — Demonstrates real-world application of AI in mental health technology
 
+A thoughtful and intelligent mental wellness platform that combines AI with human-centered design to support emotional health.
 ---
 ## 📊 Project Analytics
 
