@@ -408,6 +408,14 @@ For support and questions:
 </div>
 ## ✨ MindSpace Key Highlights
 
+- **AI-Powered Mental Wellness Platform** — A modern SaaS application focused on mental health tracking and emotional well-being
+- **Gemini AI Integration** — Advanced sentiment analysis and personalized insights using Google’s Gemini AI
+- **Intelligent Mood & Journal Analysis** — Automatically detects emotional patterns and provides actionable recommendations
+- **Real-Time Features** — Live mood updates and instant AI-generated insights
+- **Modern & Empathetic UI/UX** — Clean, calming design built with React + Tailwind CSS
+- **Full-Stack MERN Architecture** — Scalable backend with Node.js, Express, and MongoDB
+- **Secure & Private** — User data protection with JWT authentication and privacy-first design
+- **Production-Ready Wellness Solution** — Demonstrates real-world application of AI in mental health technology
 
 ---
 ## 📊 Project Analytics
