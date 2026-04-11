@@ -406,7 +406,10 @@ For support and questions:
 *See the application in action with our comprehensive demo video*
 
 </div>
+## ✨ MindSpace Key Highlights
 
+
+---
 ## 📊 Project Analytics
 
 <p align="center">
