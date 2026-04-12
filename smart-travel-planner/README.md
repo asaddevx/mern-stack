@@ -182,6 +182,10 @@ The project uses a unified development script to launch both tiers simultaneousl
 - **Intelligent Itinerary Generation** — Creates complete day-by-day plans based on destination, budget, duration, and user preferences
 - **Real-Time Data Integration** — Weather forecasts, flight/hotel suggestions, and location-based recommendations
 - **Interactive Map Experience** — Beautiful Mapbox integration for visualizing routes and attractions
+- **Budget Optimization** — Smart expense planner that suggests cost-effective options
+- **Modern MERN Stack Architecture** — Built with TypeScript, Tailwind CSS, and clean, scalable code
+- **User-Centric Design** — Responsive, visually appealing interface focused on ease of planning
+- **Production-Ready AI Application** — Demonstrates practical use of AI in solving real-world travel planning problems
 
 ---
 ## 📊 Project Analytics
