@@ -178,6 +178,11 @@ The project uses a unified development script to launch both tiers simultaneousl
 ---
 ## 📊 Project Analytics
 
+<p align="center">
+  <!-- Smart Travel Planner Project Stats -->
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=asaddevx&repo=mern-stack&theme=tokyonight&hide_border=true&bg_color=0a192f&border_radius=20" alt="Smart Travel Planner Project Stats" />
+</p>
+
 ---
 ## 📫 Connect with the Architect
 
