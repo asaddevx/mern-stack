@@ -178,6 +178,11 @@ The project uses a unified development script to launch both tiers simultaneousl
 
 ## ✨ Smart Travel Planner Key Highlights
 
+- **AI-Powered Smart Travel Planner** — Intelligent full-stack web application that generates personalized travel itineraries using Gemini AI
+- **Intelligent Itinerary Generation** — Creates complete day-by-day plans based on destination, budget, duration, and user preferences
+- **Real-Time Data Integration** — Weather forecasts, flight/hotel suggestions, and location-based recommendations
+- **Interactive Map Experience** — Beautiful Mapbox integration for visualizing routes and attractions
+
 ---
 ## 📊 Project Analytics
 
