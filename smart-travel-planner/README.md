@@ -176,7 +176,9 @@ The project uses a unified development script to launch both tiers simultaneousl
    ```
 
 ---
+## 📊 Project Analytics
 
+---
 ## 📫 Connect with the Architect
 
 <div align="center">
