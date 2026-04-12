@@ -174,6 +174,9 @@ The project uses a unified development script to launch both tiers simultaneousl
    ```bash
    npm run dev
    ```
+---
+
+## ✨ Smart Travel Planner Key Highlights
 
 ---
 ## 📊 Project Analytics
