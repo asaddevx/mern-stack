@@ -187,6 +187,7 @@ The project uses a unified development script to launch both tiers simultaneousl
 - **User-Centric Design** — Responsive, visually appealing interface focused on ease of planning
 - **Production-Ready AI Application** — Demonstrates practical use of AI in solving real-world travel planning problems
 
+A smart, AI-driven travel companion that makes trip planning faster, smarter, and more personalized.
 ---
 ## 📊 Project Analytics
 
