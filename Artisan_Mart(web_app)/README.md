@@ -29,6 +29,7 @@ Talented artisans struggle to reach customers, and buyers can't find authentic h
 - 💸 **Greedy Middlemen** — Marketplaces take 30-50% commissions from artisans who can barely afford materials.
 - 🔍 **Buyers Can't Trust** — "Handmade" claims are often mass-produced imports. Authenticity is impossible to verify.
 - 📦 **Logistics Nightmare** — No integrated shipping. Artisans figure out packaging, couriers, and tracking themselves.
+- 💬 **Communication Gap** — Buyers message artisans, but responses are slow or never come. Orders get lost.
 
 
 ---
