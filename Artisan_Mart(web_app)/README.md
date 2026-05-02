@@ -35,6 +35,10 @@ Talented artisans struggle to reach customers, and buyers can't find authentic h
 
 ---
 
+## 💡 The Solution We Built
+
+---
+
 ## 🎥 See ArtisanMart in Action
 
 <div align="center">
