@@ -26,6 +26,7 @@ ArtisanMart is a comprehensive multi-vendor marketplace designed specifically fo
 Talented artisans struggle to reach customers, and buyers can't find authentic handmade goods. The market is broken:
 
 - 🏚️ **Artisans Remain Invisible** — Skilled craftspeople have no digital presence. Their work stays local or goes unsold.
+- 💸 **Greedy Middlemen** — Marketplaces take 30-50% commissions from artisans who can barely afford materials.
 
 
 ---
