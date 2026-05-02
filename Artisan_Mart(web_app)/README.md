@@ -31,6 +31,7 @@ Talented artisans struggle to reach customers, and buyers can't find authentic h
 - 📦 **Logistics Nightmare** — No integrated shipping. Artisans figure out packaging, couriers, and tracking themselves.
 - 💬 **Communication Gap** — Buyers message artisans, but responses are slow or never come. Orders get lost.
 
+> *The result?* Talented artisans quit their craft. Buyers settle for generic products. Unique cultural heritage fades away.
 
 ---
 
