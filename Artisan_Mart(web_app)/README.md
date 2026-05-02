@@ -21,6 +21,7 @@ ArtisanMart is a comprehensive multi-vendor marketplace designed specifically fo
 
 ---
 
+## 🎯 The Problem We Saw
 
 ---
 
