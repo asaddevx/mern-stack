@@ -23,6 +23,8 @@ ArtisanMart is a comprehensive multi-vendor marketplace designed specifically fo
 
 ## 🎯 The Problem We Saw
 
+Talented artisans struggle to reach customers, and buyers can't find authentic handmade goods. The market is broken:
+
 ---
 
 ## 🎥 See ArtisanMart in Action
