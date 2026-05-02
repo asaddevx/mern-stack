@@ -51,6 +51,7 @@ Talented artisans struggle to reach customers, and buyers can't find authentic h
 
 - **Artisan-First Economics** — We don't take 30%. Our 5% commission model means artisans keep what they earn.
 - **Proof of Craft** — Artisans upload process photos and videos. Buyers see the *making of*, not just the final product.
+- **Real-Time Order Tracking** — From "Crafting" to "Shipped" to "Delivered" — both parties see every status change live.
 
 ---
 
