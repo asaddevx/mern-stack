@@ -44,6 +44,7 @@ Talented artisans struggle to reach customers, and buyers can't find authentic h
 | **Invisible Artisans** | **Digital Storefronts** — Every artisan gets a customizable shop page with portfolio, story, and product catalog. |
 | **Greedy Middlemen** | **Low 5% Commission** — We take only what's necessary to run the platform. No hidden fees. |
 | **Trust & Authenticity** | **Verified Artisan Badge** — ID-verified makers with "Made-to-Order" and "In-Stock" labels. |
+| **Logistics Headache** | **Integrated Shipping** — Real-time courier rates, printable labels, and tracking for artisans. |
 
 ---
 
