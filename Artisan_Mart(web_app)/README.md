@@ -47,6 +47,8 @@ Talented artisans struggle to reach customers, and buyers can't find authentic h
 | **Logistics Headache** | **Integrated Shipping** — Real-time courier rates, printable labels, and tracking for artisans. |
 | **Communication Gap** | **Real-Time Chat** — Socket.IO powered messaging with order context and read receipts. |
 
+### 🧠 What Makes Artisan Mart Different?
+
 ---
 
 ## 🎥 See ArtisanMart in Action
