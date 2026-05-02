@@ -37,6 +37,8 @@ Talented artisans struggle to reach customers, and buyers can't find authentic h
 
 ## 💡 The Solution We Built
 
+**Artisan Mart** is a direct-to-consumer platform that puts artisans first and gives buyers confidence.
+
 ---
 
 ## 🎥 See ArtisanMart in Action
