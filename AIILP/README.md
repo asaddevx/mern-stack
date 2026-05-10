@@ -10,6 +10,9 @@
 **AIILP** is a high-performance linkage platform that centralizes the entire internship lifecycle. It provides a **single, transparent platform** where both university-enrolled students and guest applicants can build professional CVs, apply to industry-vetted roles, and track their status in real-time.
 
 ---
+## 🎯 The Problem We Saw
+
+The bridge between academia and industry is broken. Every stakeholder suffers from a fragmented, inefficient system:
 
 ---
 ## 🖥️ Platform Showcase
