@@ -29,6 +29,7 @@ The bridge between academia and industry is broken. Every stakeholder suffers fr
 | Problem | Our Solution |
 |:--------|:-------------|
 | **Students have no centralized platform** | **Unified Student & Guest Portal** — One place to build a professional CV, discover vetted internships, and apply with one click. Real-time status tracking (Pending → Reviewing → Accepted → Rejected). |
+| **Software Houses drown in manual applications** | **Applicant Vetting Dashboard** — Streamlined interface to view all applicants, review CVs, update statuses, and track acceptance rate metrics. Real-time notifications for new applications. |
 
 ---
 ## 🖥️ Platform Showcase
