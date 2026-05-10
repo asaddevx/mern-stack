@@ -31,6 +31,7 @@ The bridge between academia and industry is broken. Every stakeholder suffers fr
 | **Students have no centralized platform** | **Unified Student & Guest Portal** — One place to build a professional CV, discover vetted internships, and apply with one click. Real-time status tracking (Pending → Reviewing → Accepted → Rejected). |
 | **Software Houses drown in manual applications** | **Applicant Vetting Dashboard** — Streamlined interface to view all applicants, review CVs, update statuses, and track acceptance rate metrics. Real-time notifications for new applications. |
 | **Universities have zero visibility** | **Bulk Student Onboarding (60s)** — Intelligent CSV parsing registers thousands of students with auto-generated credentials. Dedicated oversight portal to track student applications and success rates. |
+| **No bird's-eye view for admins** | **Administrative Command Center** — Approve/reject users and internships. Immutable audit logs track every action. Executive dashboard monitors user growth and platform trends. |
 
 ---
 ## 🖥️ Platform Showcase
