@@ -14,6 +14,9 @@
 
 The bridge between academia and industry is broken. Every stakeholder suffers from a fragmented, inefficient system:
 
+- 🎓 **For Students:** Talented students are limited to local, word-of-mouth placements. They have no centralized way to discover vetted internships from reputable software houses. Their applications disappear into black holes with zero status updates.
+
+
 ---
 ## 🖥️ Platform Showcase
 
