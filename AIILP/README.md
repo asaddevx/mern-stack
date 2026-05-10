@@ -26,6 +26,9 @@ The bridge between academia and industry is broken. Every stakeholder suffers fr
 
 **AIILP** is not just another job board. It's a **high-performance, multi-role linkage platform** that replaces fragmentation with synchronization.
 
+| Problem | Our Solution |
+|:--------|:-------------|
+
 ---
 ## 🖥️ Platform Showcase
 
