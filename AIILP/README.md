@@ -7,14 +7,9 @@
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Status](https://img.shields.io/badge/SRS_Completion-100%25-brightgreen?style=for-the-badge)](https://github.com/)
 
-
-## 🚨 The Industry Problem: The "Linkage Gap"
-
-Historically, students and guest applicants have struggled with a fragmented internship landscape. **University students** are often limited to local placements, while **Guest/External applicants** have no centralized way to access industry-vetted internships. On the other side, **Software Houses** face an administrative bottleneck when vetting hundreds of manual applications from multiple sources.
-
-## 💡 The Solution: A Unified Internship Ecosystem
-
 **AIILP** is a high-performance linkage platform that centralizes the entire internship lifecycle. It provides a **single, transparent platform** where both university-enrolled students and guest applicants can build professional CVs, apply to industry-vetted roles, and track their status in real-time.
+
+---
 
 ---
 ## 🖥️ Platform Showcase
