@@ -34,6 +34,10 @@ The bridge between academia and industry is broken. Every stakeholder suffers fr
 | **No bird's-eye view for admins** | **Administrative Command Center** — Approve/reject users and internships. Immutable audit logs track every action. Executive dashboard monitors user growth and platform trends. |
 | **No accountability, no data** | **Real-Time Analytics + Immutable Audit Logs** — Recharts visualizations for all roles. Every administrative action is logged forever. 100% accountability. |
 
+### 🧠 What Makes AIILP Different?
+
+- **Not Just a Job Board — A Complete Lifecycle Platform** — Students don't just "apply." They build CVs, track statuses, withdraw applications, and receive real-time notifications. Software houses don't just "post jobs." They vet, review CVs, and measure acceptance rates.
+
 ---
 ## 🖥️ Platform Showcase
 
