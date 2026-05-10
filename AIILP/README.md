@@ -19,6 +19,7 @@ The bridge between academia and industry is broken. Every stakeholder suffers fr
 - 🏫 **For Universities:** Career departments waste weeks manually onboarding students into placement systems. They have zero visibility into which students applied where, or who got accepted. No analytics. No accountability.
 - 🛡️ **For Administrators:** No one has a bird's-eye view of the entire ecosystem. Who approved which internship? Who needs to be audited? The platform runs on spreadsheets, emails, and hope.
 
+> *The result?* **The "Linkage Gap"** — brilliant students miss opportunities, companies waste talent, universities lose credibility, and the entire internship economy moves at a crawl.
 
 ---
 ## 🖥️ Platform Showcase
