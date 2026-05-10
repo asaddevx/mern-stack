@@ -40,6 +40,7 @@ The bridge between academia and industry is broken. Every stakeholder suffers fr
 
 - **Bulk Onboarding at Warp Speed** — Register **thousands of students in under 60 seconds** via intelligent CSV parsing with auto-generated credentials. No more manual data entry hell.
 - **Row Level Security (RLS) by Default** — Fine-grained PostgreSQL RLS ensures that sensitive student data is only visible to authorized organizations. No leaks. No privacy violations.
+- **Immutable Audit Trails for Total Accountability** — Every approval, rejection, and user management action is logged forever. When an audit happens, AIILP has the receipts.
 
 ---
 ## 🖥️ Platform Showcase
