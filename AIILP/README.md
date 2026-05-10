@@ -39,6 +39,7 @@ The bridge between academia and industry is broken. Every stakeholder suffers fr
 - **Not Just a Job Board — A Complete Lifecycle Platform** — Students don't just "apply." They build CVs, track statuses, withdraw applications, and receive real-time notifications. Software houses don't just "post jobs." They vet, review CVs, and measure acceptance rates.
 
 - **Bulk Onboarding at Warp Speed** — Register **thousands of students in under 60 seconds** via intelligent CSV parsing with auto-generated credentials. No more manual data entry hell.
+- **Row Level Security (RLS) by Default** — Fine-grained PostgreSQL RLS ensures that sensitive student data is only visible to authorized organizations. No leaks. No privacy violations.
 
 ---
 ## 🖥️ Platform Showcase
