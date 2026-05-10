@@ -16,7 +16,7 @@ The bridge between academia and industry is broken. Every stakeholder suffers fr
 
 - 🎓 **For Students:** Talented students are limited to local, word-of-mouth placements. They have no centralized way to discover vetted internships from reputable software houses. Their applications disappear into black holes with zero status updates.
 - 🏢 **For Software Houses:** HR teams drown in hundreds of manual applications from email, LinkedIn, and university referrals. There's no unified vetting dashboard. No way to track acceptance rates. No audit trail of who applied when.
-
+- 🏫 **For Universities:** Career departments waste weeks manually onboarding students into placement systems. They have zero visibility into which students applied where, or who got accepted. No analytics. No accountability.
 
 ---
 ## 🖥️ Platform Showcase
