@@ -32,6 +32,7 @@ The bridge between academia and industry is broken. Every stakeholder suffers fr
 | **Software Houses drown in manual applications** | **Applicant Vetting Dashboard** — Streamlined interface to view all applicants, review CVs, update statuses, and track acceptance rate metrics. Real-time notifications for new applications. |
 | **Universities have zero visibility** | **Bulk Student Onboarding (60s)** — Intelligent CSV parsing registers thousands of students with auto-generated credentials. Dedicated oversight portal to track student applications and success rates. |
 | **No bird's-eye view for admins** | **Administrative Command Center** — Approve/reject users and internships. Immutable audit logs track every action. Executive dashboard monitors user growth and platform trends. |
+| **No accountability, no data** | **Real-Time Analytics + Immutable Audit Logs** — Recharts visualizations for all roles. Every administrative action is logged forever. 100% accountability. |
 
 ---
 ## 🖥️ Platform Showcase
