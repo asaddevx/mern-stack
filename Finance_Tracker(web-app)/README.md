@@ -23,6 +23,10 @@ Managing personal finances is a source of constant anxiety for millions. The obs
 - **📱 Fragmented Financial Life** — Your savings are in one app, investments in another, daily spending in a third. You have no unified dashboard to see your complete financial health.
 - **🔐 Privacy Fears** — Uploading bank credentials to third-party apps feels like handing over your financial soul. Many people avoid digital tracking entirely because of trust issues.
 
+> *The result?* Financial stress, missed savings goals, unexpected debt, and a feeling of being perpetually behind — even when you're earning well.
+
+---
+
 ---
 
 ## 🎥 Live Demo
