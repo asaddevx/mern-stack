@@ -34,6 +34,8 @@ Managing personal finances is a source of constant anxiety for millions. The obs
 |:--------|:-------------|
 | **Data Overload, No Insight** | **Interactive Analytics Dashboard** — Beautiful Recharts visualizations show income vs. expense trends, category breakdowns, and spending patterns. Data becomes insights. |
 | **"Where Did My Money Go?"** | **Complete Transaction Management** — Add, edit, categorize, and search every transaction. Full CRUD operations with tags, payment methods, and date tracking. |
+| **No Predictive Power** | **Real-time Budget Alerts** — Smart budget categories with overspending notifications. Track spent vs. remaining in real-time. No surprises. |
+| **Budgets That Don't Work** | **Visual Budget Performance** — See exactly how much you've spent in each category against your limits. Adjust on the fly. Stay accountable. |
 
 ---
 
