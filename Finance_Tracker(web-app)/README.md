@@ -42,6 +42,9 @@ Managing personal finances is a source of constant anxiety for millions. The obs
 
 ### 🧠 What Makes Finance Tracker Different?
 
+- **From Reactive to Proactive** — Predictive budget alerts and spending trends mean you fix your finances *before* they break, not after.
+- **Beautiful Is Not Optional** — Glass morphism cards, gradient accents, Framer Motion animations, and dark/light themes make you *want* to check your finances daily.
+
 ---
 
 ## 🎥 Live Demo
