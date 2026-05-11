@@ -8,6 +8,7 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B67F?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 [![Recharts](https://img.shields.io/badge/Recharts-FF6F00?style=for-the-badge)](https://recharts.org/)
 
+A stunning, modern personal finance management application built with the MERN stack. Track your income, expenses, budgets, and get detailed analytics with a beautiful, user-friendly interface.
 
 ---
 
