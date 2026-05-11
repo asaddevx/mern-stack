@@ -44,6 +44,8 @@ Managing personal finances is a source of constant anxiety for millions. The obs
 
 - **From Reactive to Proactive** — Predictive budget alerts and spending trends mean you fix your finances *before* they break, not after.
 - **Beautiful Is Not Optional** — Glass morphism cards, gradient accents, Framer Motion animations, and dark/light themes make you *want* to check your finances daily.
+- **Complete Financial Health Score** — One number that tells you where you stand. Track improvement over time. Motivation through measurement.
+- **Production-Ready MERN Architecture** — TypeScript, proper error handling, rate limiting, Helmet security, and Joi validation. This is not a tutorial project.
 
 ---
 
