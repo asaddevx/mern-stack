@@ -17,6 +17,7 @@ A stunning, modern personal finance management application built with the MERN s
 Managing personal finances is a source of constant anxiety for millions. The obstacles are everywhere, and most tools only make it worse:
 
 - **📊 Data Overload, No Insight** — Bank statements and expense trackers show *what* you spent, but not *why* you're overspending or *how* to fix it. Data without direction is just noise.
+- **💸 The "Where Did My Money Go?" Mystery** — You check your balance, see it's lower than expected, but have zero memory of the transactions that drained your account. Small purchases add up invisibly.
 
 ---
 
