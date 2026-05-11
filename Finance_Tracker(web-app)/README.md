@@ -1,12 +1,9 @@
 # 💰 Finance Tracker - Personal Finance Management
 
-A stunning, modern personal finance management application built with the MERN stack. Track your income, expenses, budgets, and get detailed analytics with a beautiful, user-friendly interface.
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 
-![Finance Tracker](https://img.shields.io/badge/Finance-Tracker-blue)
-![MERN Stack](https://img.shields.io/badge/MERN-Stack-green)
-![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-green)
-![React](https://img.shields.io/badge/React-18-blue)
-![Node.js](https://img.shields.io/badge/Node.js-Express-green)
+
+---
 
 ## 🎥 Live Demo
 
