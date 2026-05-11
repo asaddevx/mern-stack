@@ -46,6 +46,7 @@ Managing personal finances is a source of constant anxiety for millions. The obs
 - **Beautiful Is Not Optional** — Glass morphism cards, gradient accents, Framer Motion animations, and dark/light themes make you *want* to check your finances daily.
 - **Complete Financial Health Score** — One number that tells you where you stand. Track improvement over time. Motivation through measurement.
 - **Production-Ready MERN Architecture** — TypeScript, proper error handling, rate limiting, Helmet security, and Joi validation. This is not a tutorial project.
+- **Your Data, Your Rules** — No external API calls to shady financial aggregators. You enter your transactions manually, keeping you mindful and in control.
 
 ---
 
