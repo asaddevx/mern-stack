@@ -20,6 +20,8 @@ Managing personal finances is a source of constant anxiety for millions. The obs
 - **💸 The "Where Did My Money Go?" Mystery** — You check your balance, see it's lower than expected, but have zero memory of the transactions that drained your account. Small purchases add up invisibly.
 - **📉 No Predictive Power** — Most apps tell you *after* you've overspent. No one warns you *before* a subscription renews or a bill is due. You're always reacting, never planning.
 - **🎯 Budgets That Don't Work** — You set a budget, break it two weeks in, and give up. There's no real-time feedback, no category tracking, no "you're about to exceed your limit" alert.
+- **📱 Fragmented Financial Life** — Your savings are in one app, investments in another, daily spending in a third. You have no unified dashboard to see your complete financial health.
+- **🔐 Privacy Fears** — Uploading bank credentials to third-party apps feels like handing over your financial soul. Many people avoid digital tracking entirely because of trust issues.
 
 ---
 
