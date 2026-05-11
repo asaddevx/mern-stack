@@ -19,6 +19,7 @@ Managing personal finances is a source of constant anxiety for millions. The obs
 - **📊 Data Overload, No Insight** — Bank statements and expense trackers show *what* you spent, but not *why* you're overspending or *how* to fix it. Data without direction is just noise.
 - **💸 The "Where Did My Money Go?" Mystery** — You check your balance, see it's lower than expected, but have zero memory of the transactions that drained your account. Small purchases add up invisibly.
 - **📉 No Predictive Power** — Most apps tell you *after* you've overspent. No one warns you *before* a subscription renews or a bill is due. You're always reacting, never planning.
+- **🎯 Budgets That Don't Work** — You set a budget, break it two weeks in, and give up. There's no real-time feedback, no category tracking, no "you're about to exceed your limit" alert.
 
 ---
 
