@@ -32,6 +32,8 @@ Managing personal finances is a source of constant anxiety for millions. The obs
 
 | Problem | Our Solution |
 |:--------|:-------------|
+| **Data Overload, No Insight** | **Interactive Analytics Dashboard** — Beautiful Recharts visualizations show income vs. expense trends, category breakdowns, and spending patterns. Data becomes insights. |
+| **"Where Did My Money Go?"** | **Complete Transaction Management** — Add, edit, categorize, and search every transaction. Full CRUD operations with tags, payment methods, and date tracking. |
 
 ---
 
