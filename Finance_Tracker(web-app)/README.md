@@ -36,7 +36,8 @@ Managing personal finances is a source of constant anxiety for millions. The obs
 | **"Where Did My Money Go?"** | **Complete Transaction Management** — Add, edit, categorize, and search every transaction. Full CRUD operations with tags, payment methods, and date tracking. |
 | **No Predictive Power** | **Real-time Budget Alerts** — Smart budget categories with overspending notifications. Track spent vs. remaining in real-time. No surprises. |
 | **Budgets That Don't Work** | **Visual Budget Performance** — See exactly how much you've spent in each category against your limits. Adjust on the fly. Stay accountable. |
-
+| **Fragmented Financial Life** | **Unified Dashboard** — Income, expenses, savings rate, budget performance, and financial health score — all in one glass-morphism card interface. |
+| **Privacy Fears** | **JWT Authentication + Local Data Control** — Your financial data is tied to your secure account. No third-party bank API calls. You control what enters the system. |
 ---
 
 ## 🎥 Live Demo
