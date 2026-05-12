@@ -9,6 +9,10 @@
 
 **MindSpace** is a comprehensive MERN stack application designed to promote mental wellness through journaling, mood tracking, and AI-powered insights. It’s a compassionate digital space for self-care and emotional growth.
 
+---
+## 🎯 The Problem We Saw
+
+Millions of people struggle silently with their mental health every day. Despite growing awareness, several critical barriers prevent people from getting the support they need.
 
 ---
 
