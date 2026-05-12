@@ -498,8 +498,4 @@ A thoughtful and intelligent mental wellness platform that combines AI with huma
 
 ---
 
-<div align="center">
-  **Built with ❤️ for mental wellness and self-care**
-  
-  <sub>Your journey to better mental health starts here</sub>
-</div>
+
