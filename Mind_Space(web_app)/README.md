@@ -35,6 +35,8 @@ Millions of people struggle silently with their mental health every day. Despite
 | **Lack of Immediate Support** | **24/7 AI Companion** — Google's Gemini AI is always available to listen, analyze your sentiment, and provide non-judgmental, context-aware guidance whenever you need it. |
 | **Privacy Concerns** | **Security & Anonymization by Design** — Your journal entries are private, and community features allow for anonymous posting. Your data is protected and never exploited. |
 
+### 🧠 What Makes MindSpace Different?
+
 ---
 A comprehensive MERN stack application designed to promote mental wellness through journaling, mood tracking, and AI-powered insights.
 
