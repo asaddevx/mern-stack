@@ -27,6 +27,10 @@ Millions of people struggle silently with their mental health every day. Despite
 
 **MindSpace** is not just another wellness app — it is a **complete, private, and intelligent mental wellness ecosystem** engineered to dismantle every barrier mentioned above. It offers a judgment-free zone where technology meets empathy.
 
+| Problem | Our Solution |
+| :--- | :--- |
+| **Stigma & Judgment** | **Private, Anonymous Journaling** — Your thoughts are for your eyes only. With opt-in anonymous community sharing, you can share experiences without revealing your identity. |
+
 
 ---
 A comprehensive MERN stack application designed to promote mental wellness through journaling, mood tracking, and AI-powered insights.
