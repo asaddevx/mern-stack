@@ -15,8 +15,10 @@
 Millions of people struggle silently with their mental health every day. Despite growing awareness, several critical barriers prevent people from getting the support they need.
 
 - **😰 Stigma & Judgment** — Many individuals, especially students and young professionals, are reluctant to seek help due to the fear of being perceived as "weak" or being stigmatized. This leads to suffering in silence.
-
 - **💸 Financial Barriers** — Professional therapy sessions are often prohibitively expensive, costing between $100 and $250 per hour, making consistent care unattainable for the majority.
+- **📱 Fragmented Solutions** — Self-help is usually scattered across multiple, disconnected tools. A user might track their mood in one app, journal in another, and seek community support on a forum, leading to a disjointed and ineffective experience.
+
+- **⏰ Lack of Immediate Support** — Mental health challenges don't adhere to business hours. When someone needs to talk at 2 AM, traditional services are unavailable, leaving them without any outlet.
 ---
 
 A comprehensive MERN stack application designed to promote mental wellness through journaling, mood tracking, and AI-powered insights.
