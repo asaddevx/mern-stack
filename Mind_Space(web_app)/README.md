@@ -1,4 +1,11 @@
-# MindSpace - Mental Wellness Journal
+# 🧠 MindSpace - Mental Wellness Journal
+
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+
+
+
+---
 
 A comprehensive MERN stack application designed to promote mental wellness through journaling, mood tracking, and AI-powered insights.
 
