@@ -7,6 +7,8 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![Gemini AI](https://img.shields.io/badge/Gemini_AI-8E75FF?style=for-the-badge)](https://deepmind.google/technologies/gemini/)
 
+**MindSpace** is a comprehensive MERN stack application designed to promote mental wellness through journaling, mood tracking, and AI-powered insights. It’s a compassionate digital space for self-care and emotional growth.
+
 
 ---
 
