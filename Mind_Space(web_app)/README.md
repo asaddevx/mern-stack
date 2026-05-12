@@ -40,22 +40,9 @@ Millions of people struggle silently with their mental health every day. Despite
 - **🧠 AI That Truly Listens** — MindSpace uses advanced sentiment analysis to understand not just what you write, but how you feel. It doesn't offer generic advice; it provides tailored wellness insights based on your unique emotional patterns.
 - **🛡️ Privacy-First Architecture** — Your emotional journey is sacred. MindSpace prioritizes local data privacy and gives you full control over what, if anything, you choose to share with the community. It's your space.
 - **⚡ Proactive & Predictive Insights** — The AI can help detect trends in your mood and journal entries, offering a holistic view of your mental well-being and suggesting positive coping strategies before negative patterns become entrenched.
+- **🌱 From Isolation to Community** — When you're ready, engage with our AI-moderated community. Share your successes, learn from others' journeys, and realize you are not alone, all within a safe and supportive environment that filters out harmful content.
 
 ---
-A comprehensive MERN stack application designed to promote mental wellness through journaling, mood tracking, and AI-powered insights.
-
-<div align="center">
-
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
-[![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-
-*A compassionate digital space for mental wellness and self-care*
-
-</div>
-
 ## 🎥 Experience MindSpace in Action
 
 <div align="center">
