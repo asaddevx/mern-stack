@@ -37,6 +37,8 @@ Millions of people struggle silently with their mental health every day. Despite
 
 ### 🧠 What Makes MindSpace Different?
 
+- **🧠 AI That Truly Listens** — MindSpace uses advanced sentiment analysis to understand not just what you write, but how you feel. It doesn't offer generic advice; it provides tailored wellness insights based on your unique emotional patterns.
+
 ---
 A comprehensive MERN stack application designed to promote mental wellness through journaling, mood tracking, and AI-powered insights.
 
