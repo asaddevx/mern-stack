@@ -32,7 +32,8 @@ Millions of people struggle silently with their mental health every day. Despite
 | **Stigma & Judgment** | **Private, Anonymous Journaling** — Your thoughts are for your eyes only. With opt-in anonymous community sharing, you can share experiences without revealing your identity. |
 | **Financial Barriers** | **Freemium AI-Powered Support** — The core AI companion (Gemini) and all fundamental tracking features are free, making professional-grade insights accessible to everyone. |
 | **Fragmented Solutions** | **All-in-One Digital Sanctuary** — Mood tracking, journaling, AI chat, guided resources, and community support are unified in one seamless, calming interface. |
-
+| **Lack of Immediate Support** | **24/7 AI Companion** — Google's Gemini AI is always available to listen, analyze your sentiment, and provide non-judgmental, context-aware guidance whenever you need it. |
+| **Privacy Concerns** | **Security & Anonymization by Design** — Your journal entries are private, and community features allow for anonymous posting. Your data is protected and never exploited. |
 
 ---
 A comprehensive MERN stack application designed to promote mental wellness through journaling, mood tracking, and AI-powered insights.
