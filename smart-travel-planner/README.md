@@ -40,6 +40,7 @@ Planning a trip in Pakistan is uniquely challenging. Travelers face a chaotic ma
 ### 🧠 What Makes Smart Travel Buddy Different?
 
 - **Pakistan-First, Not Pakistan-As-An-Afterthought** — Most travel platforms focus on international destinations and tack on Pakistan as an afterthought. Smart Travel Buddy was *built for* Pakistan — its roads, its weather, its unique destinations.
+- **AI That Understands Local Context** — Gemini AI isn't just generating generic itineraries. It knows that "traveling to Skardu in February" requires different advice than "Hunza in October." Real, actionable, local intelligence.
 
 ---
 
