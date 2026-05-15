@@ -24,6 +24,11 @@ Planning a trip in Pakistan is uniquely challenging. Travelers face a chaotic ma
 > *The result?* Travelers either overpay, get lost, or give up entirely — missing out on Pakistan's incredible beauty because the planning process is broken.
 
 ---
+## 💡 The Solution: Pakistan's First AI-Powered Travel Ecosystem
+
+**Smart Travel Buddy** is not just another travel app. It's a **complete, AI-driven travel operating system** built specifically for Pakistan's unique landscape.
+
+---
 
 ## 📸 Platform Preview
 
