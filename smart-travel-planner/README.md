@@ -21,6 +21,8 @@ Planning a trip in Pakistan is uniquely challenging. Travelers face a chaotic ma
 - 🌦️ **Unpredictable Weather** — Mountain weather changes fast. Without an integrated forecast, travelers pack wrong clothes or get stranded.
 - 💰 **No Savings Tracker** — Dreaming of a trip is easy. Saving for it is hard. There's no built-in tool to set a travel fund goal and track progress.
 
+> *The result?* Travelers either overpay, get lost, or give up entirely — missing out on Pakistan's incredible beauty because the planning process is broken.
+
 ---
 
 ## 📸 Platform Preview
