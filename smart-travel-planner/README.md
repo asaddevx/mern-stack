@@ -37,6 +37,8 @@ Planning a trip in Pakistan is uniquely challenging. Travelers face a chaotic ma
 | **Unpredictable Weather** | **☁️ Weather Module** — 5-day forecasts via OpenWeatherMap for any Pakistani city. Pack smart, travel safer. |
 | **No Savings Tracker** | **🏦 Travel Fund** — Bucket list destinations with savings goals. Track your progress. Watch your dream trip become financially achievable. |
 
+### 🧠 What Makes Smart Travel Buddy Different?
+
 ---
 
 ## 📸 Platform Preview
