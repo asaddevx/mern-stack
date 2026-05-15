@@ -33,6 +33,9 @@ Planning a trip in Pakistan is uniquely challenging. Travelers face a chaotic ma
 | **"How Much Will This Actually Cost?"** | **💰 Money Map (AI Budget Calculator)** — Real-time pricing for hotels, transport, and activities. Gemini AI estimates costs based on current market rates, not generic averages. |
 | **"Where Even Is That?"** | **🗺️ Travel Map** — Leaflet + Google Maps API with accurate geocoding for Pakistani destinations. Get directions, find nearby attractions, and never get lost. |
 | **No Local AI Knowledge** | **🤖 Buddy Bot** — Context-aware Gemini AI assistant trained to answer Pakistan-specific travel queries. "Best time for Hunza?" "Road conditions to Naran?" — It knows. |
+| **Scattered Information** | **🏦 Travel Fund + Integrated Modules** — Budget, weather, mapping, and AI chat all in one unified dashboard. No more app switching. |
+| **Unpredictable Weather** | **☁️ Weather Module** — 5-day forecasts via OpenWeatherMap for any Pakistani city. Pack smart, travel safer. |
+| **No Savings Tracker** | **🏦 Travel Fund** — Bucket list destinations with savings goals. Track your progress. Watch your dream trip become financially achievable. |
 
 ---
 
