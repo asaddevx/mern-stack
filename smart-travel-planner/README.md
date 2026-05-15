@@ -28,6 +28,11 @@ Planning a trip in Pakistan is uniquely challenging. Travelers face a chaotic ma
 
 **Smart Travel Buddy** is not just another travel app. It's a **complete, AI-driven travel operating system** built specifically for Pakistan's unique landscape.
 
+
+| Problem | Our Solution |
+|:--------|:-------------|
+
+
 ---
 
 ## 📸 Platform Preview
