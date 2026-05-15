@@ -43,7 +43,7 @@ Planning a trip in Pakistan is uniquely challenging. Travelers face a chaotic ma
 - **AI That Understands Local Context** — Gemini AI isn't just generating generic itineraries. It knows that "traveling to Skardu in February" requires different advice than "Hunza in October." Real, actionable, local intelligence.
 - **From Dream to Done — One Ecosystem** — Set a destination in Travel Fund → Get AI budget from Money Map → Check weather → Plan route on Travel Map → Ask Buddy Bot for tips. The entire journey lives in one place
 - **Real-Time, Not Static** — Weather updates live. Geocoding is accurate. Budget estimates reflect current pricing. You're not planning with last year's data.
-
+- **Admin-Powered Reliability** — The Admin Center ensures API keys are monitored and content is vetted. No broken maps, no expired weather keys.
 
 ---
 
