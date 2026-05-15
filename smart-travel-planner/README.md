@@ -5,6 +5,9 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![Gemini AI](https://img.shields.io/badge/Gemini_AI-Google-8E75FF?style=for-the-badge&logo=googlegemini&logoColor=white)](https://ai.google.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B67F?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+
+**Smart Travel Buddy** is a comprehensive MERN-stack travel planning ecosystem specifically optimized for exploring Pakistan. It goes beyond simple search by integrating **AI Budget Estimation**, **Real-time Geocoding**, and **Interactive Mapping** to provide a 360-degree travel experience.
 
 ---
 
