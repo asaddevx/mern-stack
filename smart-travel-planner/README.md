@@ -16,6 +16,9 @@ Planning a trip in Pakistan is uniquely challenging. Travelers face a chaotic ma
 
 - 💸 **"How Much Will This Actually Cost?"** — Budget estimates online are generic and outdated. A hotel price from last year means nothing today. No one accounts for real-time fuel costs, seasonal rates, or local transport.
 - 🗺️ **"Where Even Is That?"** — Beautiful destinations like Skardu, Hunza, or Swat are hard to locate on standard maps. Directions are vague. Geocoding is inaccurate. Travelers get lost before they arrive.
+- 🤖 **No Local AI Knowledge** — Generic travel assistants know about Paris and Tokyo. Ask about "best time to visit Neelum Valley" or "road conditions to Fairy Meadows" — they have no clue.
+- 📱 **Scattered Information** — Weather on one app, directions on another, budget in a spreadsheet, itinerary in Notes. Planning requires juggling 6+ apps simultaneously.
+
 ---
 
 ## 📸 Platform Preview
