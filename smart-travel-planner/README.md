@@ -39,6 +39,8 @@ Planning a trip in Pakistan is uniquely challenging. Travelers face a chaotic ma
 
 ### 🧠 What Makes Smart Travel Buddy Different?
 
+- **Pakistan-First, Not Pakistan-As-An-Afterthought** — Most travel platforms focus on international destinations and tack on Pakistan as an afterthought. Smart Travel Buddy was *built for* Pakistan — its roads, its weather, its unique destinations.
+
 ---
 
 ## 📸 Platform Preview
