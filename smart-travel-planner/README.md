@@ -18,6 +18,8 @@ Planning a trip in Pakistan is uniquely challenging. Travelers face a chaotic ma
 - 🗺️ **"Where Even Is That?"** — Beautiful destinations like Skardu, Hunza, or Swat are hard to locate on standard maps. Directions are vague. Geocoding is inaccurate. Travelers get lost before they arrive.
 - 🤖 **No Local AI Knowledge** — Generic travel assistants know about Paris and Tokyo. Ask about "best time to visit Neelum Valley" or "road conditions to Fairy Meadows" — they have no clue.
 - 📱 **Scattered Information** — Weather on one app, directions on another, budget in a spreadsheet, itinerary in Notes. Planning requires juggling 6+ apps simultaneously.
+- 🌦️ **Unpredictable Weather** — Mountain weather changes fast. Without an integrated forecast, travelers pack wrong clothes or get stranded.
+- 💰 **No Savings Tracker** — Dreaming of a trip is easy. Saving for it is hard. There's no built-in tool to set a travel fund goal and track progress.
 
 ---
 
