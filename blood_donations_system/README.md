@@ -32,6 +32,9 @@ Blood donation systems are failing patients when every second counts. The curren
 
 **BloodLink** transforms blood donation from a reactive, manual process into a **proactive, automated, life-saving system**.
 
+| Problem | Our Solution |
+|:--------|:-------------|
+
 ---
 
 ## 🖥️ System Showcase
