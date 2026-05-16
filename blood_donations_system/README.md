@@ -17,6 +17,8 @@
 
 Blood donation systems are failing patients when every second counts. The current reality is a collection of life-threatening gaps:
 
+- ⏱️ **Critical Delays, Lost Lives** — When a hospital needs blood for an emergency, they rely on manual phone calls and WhatsApp groups. By the time a donor arrives, it's often too late.
+
 ---
 
 ## 🖥️ System Showcase
