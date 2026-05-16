@@ -37,6 +37,7 @@ Blood donation systems are failing patients when every second counts. The curren
 | **Critical Delays** | **Real-Time Socket.IO Alerts** — When a "Critical" request is created, compatible donors within 10km receive an instant notification. Response time: milliseconds, not hours. |
 | **No Medical History Tracking** | **Eligibility Interval Enforcement** — The system blocks donations if the mandatory 56-day cooldown period hasn't passed. Medical history is tracked and verified. |
 | **Administrative Overload** | **Automated Eligibility Logic** — Donors are pre-filtered based on BMI, age, and basic medical criteria before they ever reach the medical queue. Staff focus on exceptions, not routine checks. |
+| **Donors Are Blind** | **Location-Based Matching + Push Notifications** — Donors see exactly where help is needed. They receive real-time alerts for requests matching their blood type and location. |
 
 ---
 
