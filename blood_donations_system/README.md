@@ -13,12 +13,13 @@
 **BloodLink** is a mission-critical MERN stack application designed to bridge the gap between blood donors and recipients. It features real-time matching, automated medical verification, and a multi-tiered administrative dashboard to ensure every drop counts.
 
 ---
+## 🎯 The Problem We Saw
 
+Blood donation systems are failing patients when every second counts. The current reality is a collection of life-threatening gaps:
 
+---
 
 ## 🖥️ System Showcase
-
-
 
 ### **Dashboard Ecosystem**
 
