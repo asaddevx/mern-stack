@@ -38,6 +38,8 @@ Blood donation systems are failing patients when every second counts. The curren
 | **No Medical History Tracking** | **Eligibility Interval Enforcement** — The system blocks donations if the mandatory 56-day cooldown period hasn't passed. Medical history is tracked and verified. |
 | **Administrative Overload** | **Automated Eligibility Logic** — Donors are pre-filtered based on BMI, age, and basic medical criteria before they ever reach the medical queue. Staff focus on exceptions, not routine checks. |
 | **Donors Are Blind** | **Location-Based Matching + Push Notifications** — Donors see exactly where help is needed. They receive real-time alerts for requests matching their blood type and location. |
+| **No Supply Forecasting** | **Analytics & Reporting Dashboard** — Visual trends for blood supply forecasting. Know before the shortage happens. |
+| **Zero Accountability** | **Immutable Audit Trail** — Every approval, rejection, and distribution is logged. Full traceability for HIPAA/GDPR compliance. |
 
 ---
 
