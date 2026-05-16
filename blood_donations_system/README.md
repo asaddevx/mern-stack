@@ -47,6 +47,7 @@ Blood donation systems are failing patients when every second counts. The curren
 - **Medical Compliance Built-In** — The 56-day cooldown is enforced at the database level. Donors cannot donate before they're medically eligible. No exceptions, no errors.
 - **From Reactive to Proactive** — Traditional systems wait for donors to check in. BloodLink pushes emergencies *to* donors. The system finds help when it's needed most.
 - **Four Roles, One Purpose** — Donor, Recipient, Medical Admin, System Admin. Each role has precise permissions (RBAC), but every action serves the same goal: saving lives.
+- **Transparent, Auditable, Trustworthy** — Every step of the donation lifecycle (Scheduled → Collected → Tested → Distributed) is tracked. Hospitals and regulators can audit every transaction.
 
 ---
 
