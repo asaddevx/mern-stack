@@ -1,45 +1,11 @@
 
 
 ---
-
 # 🩸 BloodLink: Life-Saving Management System
 
-[![Node.js](https://img.shields.io/badge/Node.js-LTS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)[![React](https://img.shields.io/badge/React-2025-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)[![MongoDB](https://img.shields.io/badge/MongoDB-NoSQL-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)[![Express](https://img.shields.io/badge/Express.js-Backend-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+[![Node.js](https://img.shields.io/badge/Node.js-LTS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+[![React](https://img.shields.io/badge/React-2025-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
 
-**BloodLink** is a mission-critical MERN stack application designed to bridge the gap between blood donors and recipients. It features real-time matching, automated medical verification, and a multi-tiered administrative dashboard to ensure every drop counts.
-
----
-
-## 🧩 The Problem vs. Our Solution
-
-Before BloodLink, blood donation was hindered by manual record-keeping and slow communication. Here is how we engineered the fix:
-
-* **The Problem:** Delayed response times during critical blood shortages.
-
-
-* **The Solution:** **Real-time Socket.IO alerts** that notify compatible donors within a 10km radius instantly when a "Critical" request is created.
-
-
-
-
-* **The Problem:** Risks to donor and recipient health due to lack of medical history tracking.
-
-
-* **The Solution:** An **Eligibility Interval Enforcement** system that blocks donations if the 56-day cooldown period hasn't passed.
-
-
-
-
-* **The Problem:** High administrative workload in verifying donors.
-
-
-* **The Solution:** **Automated Eligibility Logic** that pre-filters users based on BMI and age before they even reach the medical queue.
-
-
-
-
-
----
 
 ---
 
