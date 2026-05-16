@@ -28,6 +28,10 @@ Blood donation systems are failing patients when every second counts. The curren
 
 ---
 
+## 💡 The Solution: A Real-Time Medical Logistics Engine
+
+---
+
 ## 🖥️ System Showcase
 
 ### **Dashboard Ecosystem**
