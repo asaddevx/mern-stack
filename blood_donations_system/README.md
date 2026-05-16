@@ -41,6 +41,8 @@ Blood donation systems are failing patients when every second counts. The curren
 | **No Supply Forecasting** | **Analytics & Reporting Dashboard** — Visual trends for blood supply forecasting. Know before the shortage happens. |
 | **Zero Accountability** | **Immutable Audit Trail** — Every approval, rejection, and distribution is logged. Full traceability for HIPAA/GDPR compliance. |
 
+### 🧠 What Makes BloodLink Different?
+
 ---
 
 ## 🖥️ System Showcase
