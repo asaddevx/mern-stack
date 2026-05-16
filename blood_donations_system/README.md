@@ -20,6 +20,7 @@ Blood donation systems are failing patients when every second counts. The curren
 - ⏱️ **Critical Delays, Lost Lives** — When a hospital needs blood for an emergency, they rely on manual phone calls and WhatsApp groups. By the time a donor arrives, it's often too late.
 - 🩺 **No Medical History Tracking** — A donor could have a fever yesterday or a chronic condition today. Without a system to track cooldown periods (56 days between donations) and medical eligibility, unsafe donations reach patients.
 - 📋 **Administrative Overload** — Medical staff waste hours manually verifying donor eligibility, checking BMI, age, and disease history. Time that should be spent on patient care is lost to paperwork.
+- 🗺️ **Donors Are Blind** — A donor has no idea when or where they are needed. They want to help but receive no alerts. Their willingness is wasted by poor communication.
 
 
 ---
