@@ -30,6 +30,8 @@ Blood donation systems are failing patients when every second counts. The curren
 
 ## 💡 The Solution: A Real-Time Medical Logistics Engine
 
+**BloodLink** transforms blood donation from a reactive, manual process into a **proactive, automated, life-saving system**.
+
 ---
 
 ## 🖥️ System Showcase
