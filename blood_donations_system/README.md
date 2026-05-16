@@ -22,6 +22,7 @@ Blood donation systems are failing patients when every second counts. The curren
 - 📋 **Administrative Overload** — Medical staff waste hours manually verifying donor eligibility, checking BMI, age, and disease history. Time that should be spent on patient care is lost to paperwork.
 - 🗺️ **Donors Are Blind** — A donor has no idea when or where they are needed. They want to help but receive no alerts. Their willingness is wasted by poor communication.
 - 📊 **No Supply Forecasting** — Blood banks operate in the dark. They have no analytics to predict shortages or track donation trends. When a crisis hits, they're unprepared.
+- 📝 **Zero Accountability** — Who approved which donor? When was blood distributed? Without an audit trail, errors can't be traced, and systems can't improve.
 
 
 ---
