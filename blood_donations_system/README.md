@@ -18,6 +18,7 @@
 Blood donation systems are failing patients when every second counts. The current reality is a collection of life-threatening gaps:
 
 - ⏱️ **Critical Delays, Lost Lives** — When a hospital needs blood for an emergency, they rely on manual phone calls and WhatsApp groups. By the time a donor arrives, it's often too late.
+- 🩺 **No Medical History Tracking** — A donor could have a fever yesterday or a chronic condition today. Without a system to track cooldown periods (56 days between donations) and medical eligibility, unsafe donations reach patients.
 
 ---
 
