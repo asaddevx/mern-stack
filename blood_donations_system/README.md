@@ -43,6 +43,8 @@ Blood donation systems are failing patients when every second counts. The curren
 
 ### 🧠 What Makes BloodLink Different?
 
+- **Mission-Critical by Design** — This isn't a portfolio project. It's engineered for real emergencies. Socket.IO latency is optimized for sub-second alerts. The system prioritizes "Critical" requests above all else.
+
 ---
 
 ## 🖥️ System Showcase
