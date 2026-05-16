@@ -24,6 +24,7 @@ Blood donation systems are failing patients when every second counts. The curren
 - 📊 **No Supply Forecasting** — Blood banks operate in the dark. They have no analytics to predict shortages or track donation trends. When a crisis hits, they're unprepared.
 - 📝 **Zero Accountability** — Who approved which donor? When was blood distributed? Without an audit trail, errors can't be traced, and systems can't improve.
 
+> *The result?* **Preventable deaths.** Every hour of delay in blood transfusion increases mortality risk by 2-3%. BloodLink was built to close this gap.
 
 ---
 
