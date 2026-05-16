@@ -45,6 +45,7 @@ Blood donation systems are failing patients when every second counts. The curren
 
 - **Mission-Critical by Design** — This isn't a portfolio project. It's engineered for real emergencies. Socket.IO latency is optimized for sub-second alerts. The system prioritizes "Critical" requests above all else.
 - **Medical Compliance Built-In** — The 56-day cooldown is enforced at the database level. Donors cannot donate before they're medically eligible. No exceptions, no errors.
+- **From Reactive to Proactive** — Traditional systems wait for donors to check in. BloodLink pushes emergencies *to* donors. The system finds help when it's needed most.
 
 ---
 
