@@ -208,7 +208,7 @@ A practical and impactful MERN Stack web application focused on empowering local
     <img src="https://img.shields.io/badge/VIEW_PORTFOLIO-282c34?style=for-the-badge&logo=vercel&logoColor=61AFEF" alt="Portfolio" />
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/asadullah-%F0%9F%99%82-5475a4352">
+  <a href="https://www.linkedin.com/in/asad-ullah-5475a4352/">
     <img src="https://img.shields.io/badge/LINKEDIN-282c34?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
   </a>
   &nbsp;
