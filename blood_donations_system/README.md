@@ -183,6 +183,10 @@ Blood donation systems are failing patients when every second counts. The curren
 ### Requests Collection
 | Field | Type | Description |
 |:------|:-----|:------------|
+| `patientName` | String | Name of recipient |
+| `bloodType` | String | Required blood type |
+| `urgency` | String | Low / Medium / High / Critical |
+| `hospital` | String | Location details |
 
 
 ---
