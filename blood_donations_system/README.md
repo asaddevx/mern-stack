@@ -178,6 +178,12 @@ Blood donation systems are failing patients when every second counts. The curren
 | `location` | Object | { lat, lng, address } |
 | `medicalHistory` | Array | Past illnesses, conditions |
 | `lastDonationDate` | Date | For 56-day cooldown |
+| `isEligible` | Boolean | Auto-calculated |
+
+### Requests Collection
+| Field | Type | Description |
+|:------|:-----|:------------|
+
 
 ---
 
