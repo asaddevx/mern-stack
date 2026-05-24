@@ -161,6 +161,7 @@ Blood donation systems are failing patients when every second counts. The curren
 | `socket.io-client` | Real-time client |
 | `react-router-dom` | Navigation |
 | `tailwindcss` | Styling |
+| `recharts` | Analytics charts |
 
 ---
 
