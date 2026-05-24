@@ -225,6 +225,7 @@ A powerful real-time full-stack application that demonstrates the practical use 
 
   <p align="center">
   <img src="https://img.shields.io/badge/Built_With-MERN-00C58E?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Real_Time-Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white" />
     
 </p>
 
