@@ -187,7 +187,8 @@ Blood donation systems are failing patients when every second counts. The curren
 | `bloodType` | String | Required blood type |
 | `urgency` | String | Low / Medium / High / Critical |
 | `hospital` | String | Location details |
-
+| `status` | String | pending / matched / fulfilled / expired |
+| `createdAt` | Date | Timestamp |
 
 ---
 
