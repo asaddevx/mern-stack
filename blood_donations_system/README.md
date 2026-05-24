@@ -149,6 +149,9 @@ Blood donation systems are failing patients when every second counts. The curren
 | `mongoose` | MongoDB ODM |
 | `jsonwebtoken` | JWT authentication |
 | `bcryptjs` | Password hashing |
+| `socket.io` | Real-time notifications |
+| `nodemailer` | Email alerts |
+| `cors` | Cross-origin requests |
 
 ---
 
