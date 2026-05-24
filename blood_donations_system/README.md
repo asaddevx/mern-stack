@@ -172,6 +172,9 @@ Blood donation systems are failing patients when every second counts. The curren
 |:------|:-----|:------------|
 | `name` | String | Full name |
 | `email` | String | Unique, login credential |
+| `password` | String | Hashed |
+| `role` | String | donor / recipient / medical_admin / system_admin |
+| `bloodType` | String | A+, A-, B+, B-, AB+, AB-, O+, O- |
 
 
 ---
