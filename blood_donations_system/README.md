@@ -158,6 +158,10 @@ Blood donation systems are failing patients when every second counts. The curren
 |:--------|:--------|
 | `react` | UI framework |
 | `axios` | API requests |
+| `socket.io-client` | Real-time client |
+| `react-router-dom` | Navigation |
+| `tailwindcss` | Styling |
+
 ---
 
 ## ✨ BloodLink Key Highlights
