@@ -143,7 +143,9 @@ Blood donation systems are failing patients when every second counts. The curren
 ## 📦 Key Dependencies
 
 ### Backend
-
+| Package | Purpose |
+|:--------|:--------|
+| `express` | Web framework |
 
 ---
 
