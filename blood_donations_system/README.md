@@ -153,6 +153,10 @@ Blood donation systems are failing patients when every second counts. The curren
 | `nodemailer` | Email alerts |
 | `cors` | Cross-origin requests |
 
+### Frontend
+| Package | Purpose |
+|:--------|:--------|
+
 ---
 
 ## ✨ BloodLink Key Highlights
