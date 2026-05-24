@@ -146,6 +146,9 @@ Blood donation systems are failing patients when every second counts. The curren
 | Package | Purpose |
 |:--------|:--------|
 | `express` | Web framework |
+| `mongoose` | MongoDB ODM |
+| `jsonwebtoken` | JWT authentication |
+| `bcryptjs` | Password hashing |
 
 ---
 
