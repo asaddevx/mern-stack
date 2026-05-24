@@ -222,6 +222,10 @@ A powerful real-time full-stack application that demonstrates the practical use 
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B67F?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+
+  <p align="center">
+  <img src="https://img.shields.io/badge/Built_With-MERN-00C58E?style=flat-square&logo=mongodb&logoColor=white" />
+    
 </p>
 
 ---
