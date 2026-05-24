@@ -175,7 +175,9 @@ Blood donation systems are failing patients when every second counts. The curren
 | `password` | String | Hashed |
 | `role` | String | donor / recipient / medical_admin / system_admin |
 | `bloodType` | String | A+, A-, B+, B-, AB+, AB-, O+, O- |
-
+| `location` | Object | { lat, lng, address } |
+| `medicalHistory` | Array | Past illnesses, conditions |
+| `lastDonationDate` | Date | For 56-day cooldown |
 
 ---
 
