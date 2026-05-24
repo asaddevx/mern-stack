@@ -165,6 +165,17 @@ Blood donation systems are failing patients when every second counts. The curren
 
 ---
 
+## 🗄️ Database Schema
+
+### Users Collection
+| Field | Type | Description |
+|:------|:-----|:------------|
+| `name` | String | Full name |
+| `email` | String | Unique, login credential |
+
+
+---
+
 ## ✨ BloodLink Key Highlights
 - **Real-Time Medical Logistics System** — Connects blood donors with patients in critical emergencies with minimal latency
 - **Live Donor-Patient Matching** — Smart algorithm that significantly reduces matching time in life-saving situations
