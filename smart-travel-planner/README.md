@@ -241,7 +241,11 @@ smart-travel-buddy/
 | Package | Version | Purpose |
 |:--------|:--------|:--------|
 | `react` | ^18.2.0 | UI framework |
+| `react-router-dom` | ^6.14.0 | Navigation |
+| `axios` | ^1.4.0 | API requests |
+| `leaflet` | ^1.9.0 | Interactive maps |
 
+```
 
 ## ✨ Smart Travel Planner Key Highlights
 
