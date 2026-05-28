@@ -215,6 +215,11 @@ The project uses a unified development script to launch both tiers simultaneousl
 ---
 ## 📂 Project Structure
 
+smart-travel-buddy/
+├── client/ # React Frontend
+│ ├── src/
+│ │ ├── components/ # Reusable UI components
+
 
 ---
 
