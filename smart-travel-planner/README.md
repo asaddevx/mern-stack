@@ -244,7 +244,9 @@ smart-travel-buddy/
 | `react-router-dom` | ^6.14.0 | Navigation |
 | `axios` | ^1.4.0 | API requests |
 | `leaflet` | ^1.9.0 | Interactive maps |
-
+| `react-leaflet` | ^4.2.0 | React wrapper for Leaflet |
+| `tailwindcss` | ^3.3.0 | Styling |
+| `recharts` | ^2.7.0 | Charts for analytics |
 ```
 
 ## ✨ Smart Travel Planner Key Highlights
