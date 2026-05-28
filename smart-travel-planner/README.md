@@ -255,6 +255,9 @@ smart-travel-buddy/
 | `express` | ^4.18.0 | Web framework |
 | `mongoose` | ^7.3.0 | MongoDB ODM |
 | `jsonwebtoken` | ^9.0.0 | JWT authentication |
+| `bcryptjs` | ^2.4.0 | Password hashing |
+| `@google/generative-ai` | ^0.1.0 | Gemini AI integration |
+
 
 ```
 
