@@ -234,6 +234,14 @@ smart-travel-buddy/
 │ └── server.js # Entry point
 └── README.md
 ```
+## 📦 Key Dependencies
+
+### Frontend
+```
+| Package | Version | Purpose |
+|:--------|:--------|:--------|
+| `react` | ^18.2.0 | UI framework |
+
 
 ## ✨ Smart Travel Planner Key Highlights
 
