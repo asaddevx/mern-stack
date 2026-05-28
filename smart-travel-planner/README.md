@@ -222,6 +222,9 @@ smart-travel-buddy/
 │ │ ├── pages/ # Home, Dashboard, Travel Map, Money Map
 │ │ ├── contexts/ # AuthContext, ThemeContext
 │ │ ├── hooks/ # useAuth, useWeather, useBudget
+│ │ ├── services/ # API calls, Gemini integration
+│ │ └── utils/ # Helpers, formatters
+│ └── public/
 
 
 
