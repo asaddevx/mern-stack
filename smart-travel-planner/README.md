@@ -257,7 +257,8 @@ smart-travel-buddy/
 | `jsonwebtoken` | ^9.0.0 | JWT authentication |
 | `bcryptjs` | ^2.4.0 | Password hashing |
 | `@google/generative-ai` | ^0.1.0 | Gemini AI integration |
-
+| `axios` | ^1.4.0 | External API calls |
+| `dotenv` | ^16.0.0 | Environment variables |
 
 ```
 
