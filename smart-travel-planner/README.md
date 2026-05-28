@@ -231,10 +231,9 @@ smart-travel-buddy/
 │ ├── middleware/ # Auth, validation
 │ ├── controllers/ # Business logic
 │ ├── config/ # DB, environment config
+│ └── server.js # Entry point
+└── README.md
 
-
-
----
 
 ## ✨ Smart Travel Planner Key Highlights
 
