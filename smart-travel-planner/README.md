@@ -8,6 +8,7 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B67F?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 <p align="center">
   <img src="https://img.shields.io/badge/Built_With-MERN-00C58E?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Maps-Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white" />
   
 
 **Smart Travel Buddy** is a comprehensive MERN-stack travel planning ecosystem specifically optimized for exploring Pakistan. It goes beyond simple search by integrating **AI Budget Estimation**, **Real-time Geocoding**, and **Interactive Mapping** to provide a 360-degree travel experience.
