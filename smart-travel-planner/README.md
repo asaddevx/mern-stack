@@ -228,6 +228,9 @@ smart-travel-buddy/
 ├── server/ # Node.js Backend
 │ ├── models/ # MongoDB schemas (User, Trip, Budget)
 │ ├── routes/ # API endpoints
+│ ├── middleware/ # Auth, validation
+│ ├── controllers/ # Business logic
+│ ├── config/ # DB, environment config
 
 
 
