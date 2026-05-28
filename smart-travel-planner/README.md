@@ -225,6 +225,9 @@ smart-travel-buddy/
 │ │ ├── services/ # API calls, Gemini integration
 │ │ └── utils/ # Helpers, formatters
 │ └── public/
+├── server/ # Node.js Backend
+│ ├── models/ # MongoDB schemas (User, Trip, Budget)
+│ ├── routes/ # API endpoints
 
 
 
