@@ -213,6 +213,10 @@ The project uses a unified development script to launch both tiers simultaneousl
    npm run dev
    ```
 ---
+## 📂 Project Structure
+
+
+---
 
 ## ✨ Smart Travel Planner Key Highlights
 
