@@ -300,6 +300,9 @@ A smart, AI-driven travel companion that makes trip planning faster, smarter, an
   <img src="https://img.shields.io/badge/Gemini_AI-8E75FF?style=for-the-badge" alt="Gemini AI" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B67F?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind" />
   <img src="https://img.shields.io/badge/Mapbox-000000?style=for-the-badge&logo=mapbox&logoColor=white" alt="Mapbox" />
+  <p align="center">
+  <img src="https://img.shields.io/badge/Built_With-MERN-00C58E?style=flat-square&logo=mongodb&logoColor=white" />
+    
 </p>
 
 ---
