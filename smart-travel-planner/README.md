@@ -219,6 +219,10 @@ smart-travel-buddy/
 ├── client/ # React Frontend
 │ ├── src/
 │ │ ├── components/ # Reusable UI components
+│ │ ├── pages/ # Home, Dashboard, Travel Map, Money Map
+│ │ ├── contexts/ # AuthContext, ThemeContext
+│ │ ├── hooks/ # useAuth, useWeather, useBudget
+
 
 
 ---
