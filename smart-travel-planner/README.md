@@ -248,6 +248,15 @@ smart-travel-buddy/
 | `tailwindcss` | ^3.3.0 | Styling |
 | `recharts` | ^2.7.0 | Charts for analytics |
 ```
+### Backend
+```
+| Package | Version | Purpose |
+|:--------|:--------|:--------|
+| `express` | ^4.18.0 | Web framework |
+| `mongoose` | ^7.3.0 | MongoDB ODM |
+| `jsonwebtoken` | ^9.0.0 | JWT authentication |
+
+```
 
 ## ✨ Smart Travel Planner Key Highlights
 
