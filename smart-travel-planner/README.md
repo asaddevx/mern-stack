@@ -53,6 +53,14 @@ Planning a trip in Pakistan is uniquely challenging. Travelers face a chaotic ma
 
 ---
 
+## 🎥 See Smart Travel Buddy in Action
+
+<div align="center">
+  <a href="YOUR_VIDEO_LINK_HERE">
+
+
+---
+
 ## 📸 Platform Preview
 
 ### 🏠 **Home & Dashboard**
