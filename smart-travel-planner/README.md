@@ -62,7 +62,10 @@ Planning a trip in Pakistan is uniquely challenging. Travelers face a chaotic ma
   &nbsp;
   <a href="YOUR_DEPLOYED_LINK_HERE">
     <img src="https://img.shields.io/badge/🌐_Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
-    
+  </a>
+</div>
+
+<br>    
 
 ---
 
