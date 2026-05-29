@@ -167,6 +167,15 @@ src/
 └── utils/        # CSV Parsers, Notification Triggers, & Audit Logging
 
 ```
+## 📂 Project Structure
+
+```
+AIILP/
+├── src/
+│ ├── components/ # Reusable UI components
+│ │ ├── Layout/ # Header, Sidebar, Footer
+
+```
 
 ## ✨ AIILP Key Highlights
 - **Academic-Industry Linkage Platform** — A complete ecosystem connecting universities, students, and software houses for seamless internship management
