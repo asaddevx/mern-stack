@@ -185,7 +185,10 @@ AIILP/
 │ ├── hooks/ # useSupabase, useRealtime, useAnalytics
 │ ├── services/ # Supabase client, CSV parser
 │ ├── types/ # TypeScript interfaces
-
+│ └── utils/ # Helpers, formatters, validators
+├── database/ # Supabase migrations & RLS policies
+├── public/ # Static assets
+└── README.md
 
 ```
 
