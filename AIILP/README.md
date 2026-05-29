@@ -202,6 +202,8 @@ AIILP/
 | `@tanstack/react-query` | ^4.29.0 | Server-state management |
 | `recharts` | ^2.7.0 | Analytics charts |
 | `tailwindcss` | ^3.3.0 | Styling |
+| `papaparse` | ^5.4.0 | CSV parsing for bulk onboarding |
+| `react-hot-toast` | ^2.4.0 | Real-time notifications |
 
 ```
 
