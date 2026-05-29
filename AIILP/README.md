@@ -174,6 +174,9 @@ AIILP/
 ├── src/
 │ ├── components/ # Reusable UI components
 │ │ ├── Layout/ # Header, Sidebar, Footer
+│ │ ├── Cards/ # InternshipCard, ApplicationCard
+│ │ └── Modals/ # CV Builder, Application Modal
+│ ├── pages/ # Role-based dashboards
 
 ```
 
