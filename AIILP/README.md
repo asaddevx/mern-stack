@@ -181,6 +181,11 @@ AIILP/
 │ │ ├── university/ # Student Oversight, Analytics
 │ │ ├── softwarehouse/ # Internship Management, Vetting
 │ │ └── student/ # Applications, CV Builder, Status
+│ ├── contexts/ # AuthContext, NotificationContext
+│ ├── hooks/ # useSupabase, useRealtime, useAnalytics
+│ ├── services/ # Supabase client, CSV parser
+│ ├── types/ # TypeScript interfaces
+
 
 ```
 
