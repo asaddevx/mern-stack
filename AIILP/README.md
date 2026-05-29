@@ -193,7 +193,6 @@ AIILP/
 ```
 ## 📦 Key Dependencies
 
-```
 | Package | Version | Purpose |
 |:--------|:--------|:--------|
 | `react` | ^18.2.0 | UI framework |
@@ -205,7 +204,6 @@ AIILP/
 | `papaparse` | ^5.4.0 | CSV parsing for bulk onboarding |
 | `react-hot-toast` | ^2.4.0 | Real-time notifications |
 
-```
 
 ## ✨ AIILP Key Highlights
 - **Academic-Industry Linkage Platform** — A complete ecosystem connecting universities, students, and software houses for seamless internship management
