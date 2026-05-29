@@ -199,6 +199,9 @@ AIILP/
 | `react` | ^18.2.0 | UI framework |
 | `react-router-dom` | ^6.14.0 | Navigation |
 | `@supabase/supabase-js` | ^2.38.0 | Supabase client 
+| `@tanstack/react-query` | ^4.29.0 | Server-state management |
+| `recharts` | ^2.7.0 | Analytics charts |
+| `tailwindcss` | ^3.3.0 | Styling |
 
 ```
 
