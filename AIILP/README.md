@@ -177,6 +177,10 @@ AIILP/
 │ │ ├── Cards/ # InternshipCard, ApplicationCard
 │ │ └── Modals/ # CV Builder, Application Modal
 │ ├── pages/ # Role-based dashboards
+│ │ ├── admin/ # Admin Dashboard, User Management
+│ │ ├── university/ # Student Oversight, Analytics
+│ │ ├── softwarehouse/ # Internship Management, Vetting
+│ │ └── student/ # Applications, CV Builder, Status
 
 ```
 
