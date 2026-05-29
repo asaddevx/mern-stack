@@ -42,6 +42,14 @@ The bridge between academia and industry is broken. Every stakeholder suffers fr
 - **Immutable Audit Trails for Total Accountability** — Every approval, rejection, and user management action is logged forever. When an audit happens, AIILP has the receipts.
 - **Real-Time by Design** — Supabase Realtime Channels power instant notifications and live status updates. No refresh button needed.
 
+
+---
+
+## 🎥 See AIILP in Action
+
+<div align="center">
+  <a href="YOUR_VIDEO_LINK_HERE">
+    
 ---
 ## 🖥️ Platform Showcase
 
