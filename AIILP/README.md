@@ -51,7 +51,9 @@ The bridge between academia and industry is broken. Every stakeholder suffers fr
   <a href="YOUR_VIDEO_LINK_HERE">
     <img src="https://img.shields.io/badge/▶️_Watch_Demo_Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Demo Video" />
   </a>
-  
+  &nbsp;
+  <a href="YOUR_DEPLOYED_LINK_HERE">
+    
 ---
 ## 🖥️ Platform Showcase
 
