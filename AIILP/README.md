@@ -235,6 +235,9 @@ A production-ready platform that bridges the gap between academia and industry w
   <img src="https://img.shields.io/badge/Recharts-FF6F00?style=for-the-badge" alt="Recharts" />
   <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="TanStack Query" />
   <img src="https://img.shields.io/badge/Row_Level_Security-00BFFF?style=for-the-badge" alt="RLS" />
+  <p align="center">
+  <img src="https://img.shields.io/badge/Built_With-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+    
 </p>
 
 ---
