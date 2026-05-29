@@ -58,7 +58,7 @@ The bridge between academia and industry is broken. Every stakeholder suffers fr
   </div>
 
 <br>
----
+
 ## 🖥️ Platform Showcase
 
 ### **The Hub & Entry**
