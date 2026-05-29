@@ -238,7 +238,9 @@ A production-ready platform that bridges the gap between academia and industry w
   <p align="center">
   <img src="https://img.shields.io/badge/Built_With-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Backend-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
-  
+  <img src="https://img.shields.io/badge/Auth-RLS-00BFFF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Realtime-Supabase_Channels-FF6B6B?style=flat-square" />
+</p>
     
 </p>
 
