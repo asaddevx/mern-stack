@@ -9,7 +9,9 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Built_With-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Backend-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
-  
+  <img src="https://img.shields.io/badge/Auth-RLS-00BFFF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Realtime-Supabase_Channels-FF6B6B?style=flat-square" />
+</p>
 
 **AIILP** is a high-performance linkage platform that centralizes the entire internship lifecycle. It provides a **single, transparent platform** where both university-enrolled students and guest applicants can build professional CVs, apply to industry-vetted roles, and track their status in real-time.
 
