@@ -191,6 +191,16 @@ AIILP/
 └── README.md
 
 ```
+## 📦 Key Dependencies
+
+```
+| Package | Version | Purpose |
+|:--------|:--------|:--------|
+| `react` | ^18.2.0 | UI framework |
+| `react-router-dom` | ^6.14.0 | Navigation |
+| `@supabase/supabase-js` | ^2.38.0 | Supabase client 
+
+```
 
 ## ✨ AIILP Key Highlights
 - **Academic-Industry Linkage Platform** — A complete ecosystem connecting universities, students, and software houses for seamless internship management
