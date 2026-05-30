@@ -208,6 +208,12 @@ Blood donation systems are failing patients when every second counts. The curren
 ---
 ## 📂 Project Structure
 
+blood_donations_system/
+├── backend/
+│ ├── models/ # MongoDB schemas
+│ │ ├── User.js
+│ │ ├── Request.js
+
 ---
 
 ## ✨ BloodLink Key Highlights
