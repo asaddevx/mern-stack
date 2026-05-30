@@ -268,6 +268,7 @@ A powerful real-time full-stack application that demonstrates the practical use 
   <img src="https://img.shields.io/badge/Real_Time-Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white" />
   <img src="https://img.shields.io/badge/Auth-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />  
   <img src="https://img.shields.io/badge/Email-Nodemailer-339933?style=flat-square&logo=nodemailer&logoColor=white" />
+  <img src="https://img.shields.io/badge/Database-MongoDB_Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white" />  
   </p>    
 </p>
 
