@@ -9,6 +9,10 @@
 [![Express](https://img.shields.io/badge/Express.js-Backend-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
 [![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)](https://socket.io/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+<p align="center">
+  <img src="https://img.shields.io/badge/Built_With-MERN-00C58E?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Real_Time-Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white" />
+  
 
 **BloodLink** is a mission-critical MERN stack application designed to bridge the gap between blood donors and recipients. It features real-time matching, automated medical verification, and a multi-tiered administrative dashboard to ensure every drop counts.
 
