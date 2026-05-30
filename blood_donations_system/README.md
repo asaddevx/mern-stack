@@ -224,6 +224,9 @@ blood_donations_system/
 │ ├── src/
 │ │ ├── components/ # React components
 │ │ ├── pages/ # Dashboard, Requests, Profile
+│ │ ├── contexts/ # AuthContext, SocketContext
+│ │ ├── hooks/ # useAuth, useSocket, useNotification
+│ │ ├── services/ # API calls, Socket.IO client
 
 ---
 
