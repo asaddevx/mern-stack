@@ -53,11 +53,11 @@ Blood donation systems are failing patients when every second counts. The curren
 ## 🎥 See BloodLink in Action
 
 <div align="center">
-  <a href="YOUR_VIDEO_LINK_HERE">
+  <a href="https://drive.google.com/file/d/132K3Ndn5HZWhysKqzKp6TMfQPCmoktpo/view?usp=sharing">
     <img src="https://img.shields.io/badge/▶️_Watch_Demo_Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Demo Video" />
      </a>
   &nbsp;
-  <a href="YOUR_DEPLOYED_LINK_HERE">
+  <a href="https://drive.google.com/file/d/132K3Ndn5HZWhysKqzKp6TMfQPCmoktpo/view?usp=sharing">
     <img src="https://img.shields.io/badge/🌐_Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
   </a>
 </div>
