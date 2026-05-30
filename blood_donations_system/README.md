@@ -206,6 +206,9 @@ Blood donation systems are failing patients when every second counts. The curren
 | `createdAt` | Date | Timestamp |
 
 ---
+## 📂 Project Structure
+
+---
 
 ## ✨ BloodLink Key Highlights
 - **Real-Time Medical Logistics System** — Connects blood donors with patients in critical emergencies with minimal latency
