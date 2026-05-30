@@ -219,6 +219,11 @@ blood_donations_system/
 │ ├── controllers/ # Business logic
 │ ├── config/ # DB, email config
 │ ├── utils/ # Helpers, email templates
+│ └── server.js # Entry point
+├── frontend/
+│ ├── src/
+│ │ ├── components/ # React components
+│ │ ├── pages/ # Dashboard, Requests, Profile
 
 ---
 
