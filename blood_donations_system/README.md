@@ -50,6 +50,11 @@ Blood donation systems are failing patients when every second counts. The curren
 - **Transparent, Auditable, Trustworthy** — Every step of the donation lifecycle (Scheduled → Collected → Tested → Distributed) is tracked. Hospitals and regulators can audit every transaction.
 
 ---
+## 🎥 See BloodLink in Action
+
+<div align="center">
+  
+---
 
 ## 🖥️ System Showcase
 
