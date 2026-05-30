@@ -207,7 +207,7 @@ Blood donation systems are failing patients when every second counts. The curren
 
 ---
 ## 📂 Project Structure
-
+```
 blood_donations_system/
 ├── backend/
 │ ├── models/ # MongoDB schemas
@@ -227,8 +227,11 @@ blood_donations_system/
 │ │ ├── contexts/ # AuthContext, SocketContext
 │ │ ├── hooks/ # useAuth, useSocket, useNotification
 │ │ ├── services/ # API calls, Socket.IO client
+│ │ └── utils/ # Helpers, formatters
+│ └── public/
+└── README.md
+```
 
----
 
 ## ✨ BloodLink Key Highlights
 - **Real-Time Medical Logistics System** — Connects blood donors with patients in critical emergencies with minimal latency
