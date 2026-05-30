@@ -213,6 +213,12 @@ blood_donations_system/
 │ ├── models/ # MongoDB schemas
 │ │ ├── User.js
 │ │ ├── Request.js
+│ │ └── Donation.js
+│ ├── routes/ # API endpoints
+│ ├── middleware/ # Auth, validation
+│ ├── controllers/ # Business logic
+│ ├── config/ # DB, email config
+│ ├── utils/ # Helpers, email templates
 
 ---
 
