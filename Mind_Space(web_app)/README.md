@@ -476,6 +476,7 @@ A thoughtful and intelligent mental wellness platform that combines AI with huma
   <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.io" />
   <p align="center">
   <img src="https://img.shields.io/badge/Built_With-MERN-00C58E?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI-Gemini-8E75FF?style=flat-square&logo=googlegemini&logoColor=white" />
     
 </p>
 
