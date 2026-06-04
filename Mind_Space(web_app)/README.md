@@ -479,6 +479,7 @@ A thoughtful and intelligent mental wellness platform that combines AI with huma
   <img src="https://img.shields.io/badge/AI-Gemini-8E75FF?style=flat-square&logo=googlegemini&logoColor=white" />
   <img src="https://img.shields.io/badge/Auth-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
   <img src="https://img.shields.io/badge/Real_Time-Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white" />  
+  </p>  
 </p>
 
 ---
