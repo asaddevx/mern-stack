@@ -6,6 +6,10 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![Gemini AI](https://img.shields.io/badge/Gemini_AI-8E75FF?style=for-the-badge)](https://deepmind.google/technologies/gemini/)
+<p align="center">
+  <img src="https://img.shields.io/badge/Built_With-MERN-00C58E?style=flat-square&logo=mongodb&logoColor=white" />
+  
+
 
 **MindSpace** is a comprehensive MERN stack application designed to promote mental wellness through journaling, mood tracking, and AI-powered insights. It’s a compassionate digital space for self-care and emotional growth.
 
