@@ -474,6 +474,9 @@ A thoughtful and intelligent mental wellness platform that combines AI with huma
   <img src="https://img.shields.io/badge/Gemini_AI-8E75FF?style=for-the-badge" alt="Gemini AI" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B67F?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind" />
   <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.io" />
+  <p align="center">
+  <img src="https://img.shields.io/badge/Built_With-MERN-00C58E?style=flat-square&logo=mongodb&logoColor=white" />
+    
 </p>
 
 ---
