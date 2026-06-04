@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Built_With-MERN-00C58E?style=flat-square&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/AI-Gemini-8E75FF?style=flat-square&logo=googlegemini&logoColor=white" />
   <img src="https://img.shields.io/badge/Auth-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
-  
+  <img src="https://img.shields.io/badge/Real_Time-Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white" />
 
 
 **MindSpace** is a comprehensive MERN stack application designed to promote mental wellness through journaling, mood tracking, and AI-powered insights. It’s a compassionate digital space for self-care and emotional growth.
