@@ -1,16 +1,20 @@
 # 🧠 MindSpace - Mental Wellness Journal
 
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
-[![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![Gemini AI](https://img.shields.io/badge/Gemini_AI-8E75FF?style=for-the-badge)](https://deepmind.google/technologies/gemini/)
 <p align="center">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Gemini_AI-8E75FF?style=for-the-badge" alt="Gemini AI" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B67F?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.io" />
+  <p align="center">
   <img src="https://img.shields.io/badge/Built_With-MERN-00C58E?style=flat-square&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/AI-Gemini-8E75FF?style=flat-square&logo=googlegemini&logoColor=white" />
   <img src="https://img.shields.io/badge/Auth-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/Real_Time-Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white" />
+  <img src="https://img.shields.io/badge/Real_Time-Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white" />  
+  </p>  
 </p>
 
 **MindSpace** is a comprehensive MERN stack application designed to promote mental wellness through journaling, mood tracking, and AI-powered insights. It’s a compassionate digital space for self-care and emotional growth.
