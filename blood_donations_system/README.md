@@ -16,6 +16,7 @@
   <img src="https://img.shields.io/badge/Email-Nodemailer-339933?style=flat-square&logo=nodemailer&logoColor=white" />
   <img src="https://img.shields.io/badge/Database-MongoDB_Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white" />  
 </p> 
+
 **BloodLink** is a mission-critical MERN stack application designed to bridge the gap between blood donors and recipients. It features real-time matching, automated medical verification, and a multi-tiered administrative dashboard to ensure every drop counts.
 
 ---
