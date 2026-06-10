@@ -105,8 +105,8 @@ Built with strong emphasis on **security, scalability, performance, and develope
 ## 📫 Connect with the Architect
 
 <div align="center">
-  <p><strong>SYSTEMS_STATUS:MERN_SYSTEM_OPERATIONAL 🟢</strong></p>
-  <p>Let's build something disruptive. 🚀</p>
+  <p><strong>SYSTEMS_STATUS:MERN_SYSTEM_OPERATIONA 🟢</strong></p>
+  <p>Let's build something disruptive 🚀</p>
 
   <a href="https://asad-lime-six.vercel.app/">
     <img src="https://img.shields.io/badge/VIEW_PORTFOLIO-282c34?style=for-the-badge&logo=vercel&logoColor=61AFEF" alt="Portfolio" />
