@@ -21,13 +21,13 @@ My focus is on **System Architecture & Data Integrity**. I specialize in buildin
 * **Solution**: A high-performance command center featuring a **"Store Command Strip"** for real-time horizontal stock visibility and a **Zero-Double-Counting** finance engine.
 * **Key Tech**: React, Node.js, Express, MySQL/MongoDB.
 
-### 🎓 [AIILP](https://github.com/asaddevx/mern-stack/tree/main/AIILP/) | Institutional Linkage
+### 🎓 [AIILP](https://github.com/asaddevx/mern-stack/tree/main/AIILP/) | Institutional Linkage:
 
 * **Problem**: The gap between academia and industry-vetted internships for both students and guest applicants.
 * **Solution**: A unified ecosystem featuring **Bulk Student Onboarding (< 60s)** and real-time status tracking via Supabase.
 * **Key Tech**: React, Supabase Realtime, PostgreSQL.
 
-### 🩸 [BloodLink](https://github.com/asaddevx/mern-stack/tree/main/blood_donations_system/) | Medical Logistics
+### 🩸 [BloodLink](https://github.com/asaddevx/mern-stack/tree/main/blood_donations_system/) | Medical Logistics:
 
 * **Problem**: Delayed response times in life-critical medical emergencies due to fragmented donor data.
 * **Solution**: A real-time management system featuring **Socket.IO donor-matching** and 7-year audit trail retention.
