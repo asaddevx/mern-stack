@@ -2,7 +2,7 @@
 
 # 🌐 The MERN Ecosystem: Engineering for Impact:
 
-## 🚨 The Central Problem: Fragmented Data & Communication:
+## 🚨 The Central Problem: Fragmented Data & Communication
 
 In modern software, the biggest bottleneck isn't just writing code—it’s the **Coordination Gap**. Fragmented systems lead to "Blind Profits" in retail, "Lost Complaints" in institutions, and "Delayed Matches" in medical emergencies.
 
@@ -12,7 +12,7 @@ My focus is on **System Architecture & Data Integrity**. I specialize in buildin
 
 ---
 
-## 📂 Repository Roadmap: The Systems Inside:
+## 📂 Repository Roadmap: The Systems Inside
 
 ### 🏢 [BestPriceKSA](https://bestpriceksa.com/) | Enterprise Retail ERP
 
@@ -59,7 +59,7 @@ My focus is on **System Architecture & Data Integrity**. I specialize in buildin
 
 ---
 
-## 🛠️ Global Technical Standards
+## 🛠️ Global Technical Standards:
 
 Every project in this repository adheres to these core engineering principles:
 
