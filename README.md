@@ -1,8 +1,8 @@
 ---
 
-# 🌐 The MERN Ecosystem: Engineering for Impact:
+# 🌐 The MERN Ecosystem: Engineering for Impact
 
-## 🚨 The Central Problem: Fragmented Data & Communication:
+## 🚨 The Central Problem: Fragmented Data & Communication
 
 In modern software, the biggest bottleneck isn't just writing code—it’s the **Coordination Gap**. Fragmented systems lead to "Blind Profits" in retail, "Lost Complaints" in institutions, and "Delayed Matches" in medical emergencies.
 
@@ -12,7 +12,7 @@ My focus is on **System Architecture & Data Integrity**. I specialize in buildin
 
 ---
 
-## 📂 Repository Roadmap: The Systems Inside:
+## 📂 Repository Roadmap: The Systems Inside
 
 ### 🏢 [BestPriceKSA](https://bestpriceksa.com/) | Enterprise Retail ERP
 
@@ -79,7 +79,7 @@ Every project in this repository adheres to these core engineering principles:
 - **DevOps Ready** — Docker support for easy deployment and consistent environments
 Built with strong emphasis on **security, scalability, performance, and developer experience**.
 ---
-## 📊 Repository Analytics
+## 📊 Repository Analytics:
 <p align="center">
   <!-- Repository Stats Card -->
   <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=asaddevx&repo=mern-stack&theme=tokyonight&hide_border=true&bg_color=0a192f&border_radius=20" alt="mern-stack Repo Stats" />
