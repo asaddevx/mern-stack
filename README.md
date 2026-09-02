@@ -14,7 +14,7 @@ My focus is on **System Architecture & Data Integrity**. I specialize in buildin
 
 ## 📂 Repository Roadmap: The Systems Inside:
 
-### 🏢 [BestPriceKSA](https://bestpriceksa.com/) | Enterprise Retail ERP
+### 🏢 [BestPriceKSA](https://bestpriceksa.com/) | Enterprise Retail ERP:
 
 * **Live Check**: [bestpriceksa.com](https://bestpriceksa.com/)
 * **Problem**: Retailers facing "Blind Profits" and "Ghost Stock" due to fragmented, non-synced inventory and finance spreadsheets.
