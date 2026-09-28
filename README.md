@@ -1,8 +1,8 @@
 ---
 
-# 🌐 The MERN Ecosystem: Engineering for Impact:
+# 🌐 The MERN Ecosystem: Engineering for Impact
 
-## 🚨 The Central Problem: Fragmented Data & Communication
+## 🚨 The Central Problem: Fragmented Data & Communication:
 
 In modern software, the biggest bottleneck isn't just writing code—it’s the **Coordination Gap**. Fragmented systems lead to "Blind Profits" in retail, "Lost Complaints" in institutions, and "Delayed Matches" in medical emergencies.
 
@@ -68,7 +68,7 @@ Every project in this repository adheres to these core engineering principles:
 * **Real-time Performance**: Event-driven architectures using **WebSockets** and **Realtime Channels**.
 ---
 
-## ✨ Key Highlights
+## ✨ Key Highlights:
 - **Production-Grade MERN Architecture** — Feature-based structure with clean separation of concerns
 - **Secure Authentication System** — JWT + Refresh Tokens, httpOnly cookies, and rate limiting
 - **Real-time Features** — Socket.IO integration for live updates and notifications
