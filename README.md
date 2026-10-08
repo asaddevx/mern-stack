@@ -59,7 +59,7 @@ My focus is on **System Architecture & Data Integrity**. I specialize in buildin
 
 ---
 
-## 🛠️ Global Technical Standards
+## 🛠️ Global Technical Standards:
 
 Every project in this repository adheres to these core engineering principles:
 
