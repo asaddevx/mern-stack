@@ -102,7 +102,7 @@ Built with strong emphasis on **security, scalability, performance, and develope
   
 ---
 
-## 📫 Connect with the Architect
+## 📫 Connect with the Architect:
 
 <div align="center">
   <p><strong>SYSTEMS_STATUS:MERN_SYSTEM_OPERATIONA 🟢</strong></p>
