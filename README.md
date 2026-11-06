@@ -1,6 +1,6 @@
 ---
 
-# 🌐 The MERN Ecosystem: Engineering for Impact
+# 🌐 The MERN Ecosystem: Engineering for Impact:
 
 ## 🚨 The Central Problem: Fragmented Data & Communication
 
